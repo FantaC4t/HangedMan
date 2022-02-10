@@ -14,7 +14,7 @@ namespace HangedMan
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "1.0.0.0")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.2.0.155")]
 	public partial class Resource
 	{
 		
@@ -25,6 +25,1708 @@ namespace HangedMan
 		
 		public static void UpdateIdValues()
 		{
+			global::MODEL.Resource.Animation.abc_fade_in = global::HangedMan.Resource.Animation.abc_fade_in;
+			global::MODEL.Resource.Animation.abc_fade_out = global::HangedMan.Resource.Animation.abc_fade_out;
+			global::MODEL.Resource.Animation.abc_grow_fade_in_from_bottom = global::HangedMan.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::MODEL.Resource.Animation.abc_popup_enter = global::HangedMan.Resource.Animation.abc_popup_enter;
+			global::MODEL.Resource.Animation.abc_popup_exit = global::HangedMan.Resource.Animation.abc_popup_exit;
+			global::MODEL.Resource.Animation.abc_shrink_fade_out_from_bottom = global::HangedMan.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::MODEL.Resource.Animation.abc_slide_in_bottom = global::HangedMan.Resource.Animation.abc_slide_in_bottom;
+			global::MODEL.Resource.Animation.abc_slide_in_top = global::HangedMan.Resource.Animation.abc_slide_in_top;
+			global::MODEL.Resource.Animation.abc_slide_out_bottom = global::HangedMan.Resource.Animation.abc_slide_out_bottom;
+			global::MODEL.Resource.Animation.abc_slide_out_top = global::HangedMan.Resource.Animation.abc_slide_out_top;
+			global::MODEL.Resource.Animation.abc_tooltip_enter = global::HangedMan.Resource.Animation.abc_tooltip_enter;
+			global::MODEL.Resource.Animation.abc_tooltip_exit = global::HangedMan.Resource.Animation.abc_tooltip_exit;
+			global::MODEL.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::HangedMan.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::MODEL.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::HangedMan.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::MODEL.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::HangedMan.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::MODEL.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::HangedMan.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::MODEL.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::HangedMan.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::MODEL.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::HangedMan.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::HangedMan.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::HangedMan.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::HangedMan.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::HangedMan.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::HangedMan.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::HangedMan.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::MODEL.Resource.Animation.fragment_close_enter = global::HangedMan.Resource.Animation.fragment_close_enter;
+			global::MODEL.Resource.Animation.fragment_close_exit = global::HangedMan.Resource.Animation.fragment_close_exit;
+			global::MODEL.Resource.Animation.fragment_fade_enter = global::HangedMan.Resource.Animation.fragment_fade_enter;
+			global::MODEL.Resource.Animation.fragment_fade_exit = global::HangedMan.Resource.Animation.fragment_fade_exit;
+			global::MODEL.Resource.Animation.fragment_fast_out_extra_slow_in = global::HangedMan.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::MODEL.Resource.Animation.fragment_open_enter = global::HangedMan.Resource.Animation.fragment_open_enter;
+			global::MODEL.Resource.Animation.fragment_open_exit = global::HangedMan.Resource.Animation.fragment_open_exit;
+			global::MODEL.Resource.Attribute.actionBarDivider = global::HangedMan.Resource.Attribute.actionBarDivider;
+			global::MODEL.Resource.Attribute.actionBarItemBackground = global::HangedMan.Resource.Attribute.actionBarItemBackground;
+			global::MODEL.Resource.Attribute.actionBarPopupTheme = global::HangedMan.Resource.Attribute.actionBarPopupTheme;
+			global::MODEL.Resource.Attribute.actionBarSize = global::HangedMan.Resource.Attribute.actionBarSize;
+			global::MODEL.Resource.Attribute.actionBarSplitStyle = global::HangedMan.Resource.Attribute.actionBarSplitStyle;
+			global::MODEL.Resource.Attribute.actionBarStyle = global::HangedMan.Resource.Attribute.actionBarStyle;
+			global::MODEL.Resource.Attribute.actionBarTabBarStyle = global::HangedMan.Resource.Attribute.actionBarTabBarStyle;
+			global::MODEL.Resource.Attribute.actionBarTabStyle = global::HangedMan.Resource.Attribute.actionBarTabStyle;
+			global::MODEL.Resource.Attribute.actionBarTabTextStyle = global::HangedMan.Resource.Attribute.actionBarTabTextStyle;
+			global::MODEL.Resource.Attribute.actionBarTheme = global::HangedMan.Resource.Attribute.actionBarTheme;
+			global::MODEL.Resource.Attribute.actionBarWidgetTheme = global::HangedMan.Resource.Attribute.actionBarWidgetTheme;
+			global::MODEL.Resource.Attribute.actionButtonStyle = global::HangedMan.Resource.Attribute.actionButtonStyle;
+			global::MODEL.Resource.Attribute.actionDropDownStyle = global::HangedMan.Resource.Attribute.actionDropDownStyle;
+			global::MODEL.Resource.Attribute.actionLayout = global::HangedMan.Resource.Attribute.actionLayout;
+			global::MODEL.Resource.Attribute.actionMenuTextAppearance = global::HangedMan.Resource.Attribute.actionMenuTextAppearance;
+			global::MODEL.Resource.Attribute.actionMenuTextColor = global::HangedMan.Resource.Attribute.actionMenuTextColor;
+			global::MODEL.Resource.Attribute.actionModeBackground = global::HangedMan.Resource.Attribute.actionModeBackground;
+			global::MODEL.Resource.Attribute.actionModeCloseButtonStyle = global::HangedMan.Resource.Attribute.actionModeCloseButtonStyle;
+			global::MODEL.Resource.Attribute.actionModeCloseDrawable = global::HangedMan.Resource.Attribute.actionModeCloseDrawable;
+			global::MODEL.Resource.Attribute.actionModeCopyDrawable = global::HangedMan.Resource.Attribute.actionModeCopyDrawable;
+			global::MODEL.Resource.Attribute.actionModeCutDrawable = global::HangedMan.Resource.Attribute.actionModeCutDrawable;
+			global::MODEL.Resource.Attribute.actionModeFindDrawable = global::HangedMan.Resource.Attribute.actionModeFindDrawable;
+			global::MODEL.Resource.Attribute.actionModePasteDrawable = global::HangedMan.Resource.Attribute.actionModePasteDrawable;
+			global::MODEL.Resource.Attribute.actionModePopupWindowStyle = global::HangedMan.Resource.Attribute.actionModePopupWindowStyle;
+			global::MODEL.Resource.Attribute.actionModeSelectAllDrawable = global::HangedMan.Resource.Attribute.actionModeSelectAllDrawable;
+			global::MODEL.Resource.Attribute.actionModeShareDrawable = global::HangedMan.Resource.Attribute.actionModeShareDrawable;
+			global::MODEL.Resource.Attribute.actionModeSplitBackground = global::HangedMan.Resource.Attribute.actionModeSplitBackground;
+			global::MODEL.Resource.Attribute.actionModeStyle = global::HangedMan.Resource.Attribute.actionModeStyle;
+			global::MODEL.Resource.Attribute.actionModeWebSearchDrawable = global::HangedMan.Resource.Attribute.actionModeWebSearchDrawable;
+			global::MODEL.Resource.Attribute.actionOverflowButtonStyle = global::HangedMan.Resource.Attribute.actionOverflowButtonStyle;
+			global::MODEL.Resource.Attribute.actionOverflowMenuStyle = global::HangedMan.Resource.Attribute.actionOverflowMenuStyle;
+			global::MODEL.Resource.Attribute.actionProviderClass = global::HangedMan.Resource.Attribute.actionProviderClass;
+			global::MODEL.Resource.Attribute.actionViewClass = global::HangedMan.Resource.Attribute.actionViewClass;
+			global::MODEL.Resource.Attribute.activityChooserViewStyle = global::HangedMan.Resource.Attribute.activityChooserViewStyle;
+			global::MODEL.Resource.Attribute.alertDialogButtonGroupStyle = global::HangedMan.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::MODEL.Resource.Attribute.alertDialogCenterButtons = global::HangedMan.Resource.Attribute.alertDialogCenterButtons;
+			global::MODEL.Resource.Attribute.alertDialogStyle = global::HangedMan.Resource.Attribute.alertDialogStyle;
+			global::MODEL.Resource.Attribute.alertDialogTheme = global::HangedMan.Resource.Attribute.alertDialogTheme;
+			global::MODEL.Resource.Attribute.allowStacking = global::HangedMan.Resource.Attribute.allowStacking;
+			global::MODEL.Resource.Attribute.alpha = global::HangedMan.Resource.Attribute.alpha;
+			global::MODEL.Resource.Attribute.alphabeticModifiers = global::HangedMan.Resource.Attribute.alphabeticModifiers;
+			global::MODEL.Resource.Attribute.arrowHeadLength = global::HangedMan.Resource.Attribute.arrowHeadLength;
+			global::MODEL.Resource.Attribute.arrowShaftLength = global::HangedMan.Resource.Attribute.arrowShaftLength;
+			global::MODEL.Resource.Attribute.autoCompleteTextViewStyle = global::HangedMan.Resource.Attribute.autoCompleteTextViewStyle;
+			global::MODEL.Resource.Attribute.autoSizeMaxTextSize = global::HangedMan.Resource.Attribute.autoSizeMaxTextSize;
+			global::MODEL.Resource.Attribute.autoSizeMinTextSize = global::HangedMan.Resource.Attribute.autoSizeMinTextSize;
+			global::MODEL.Resource.Attribute.autoSizePresetSizes = global::HangedMan.Resource.Attribute.autoSizePresetSizes;
+			global::MODEL.Resource.Attribute.autoSizeStepGranularity = global::HangedMan.Resource.Attribute.autoSizeStepGranularity;
+			global::MODEL.Resource.Attribute.autoSizeTextType = global::HangedMan.Resource.Attribute.autoSizeTextType;
+			global::MODEL.Resource.Attribute.background = global::HangedMan.Resource.Attribute.background;
+			global::MODEL.Resource.Attribute.backgroundSplit = global::HangedMan.Resource.Attribute.backgroundSplit;
+			global::MODEL.Resource.Attribute.backgroundStacked = global::HangedMan.Resource.Attribute.backgroundStacked;
+			global::MODEL.Resource.Attribute.backgroundTint = global::HangedMan.Resource.Attribute.backgroundTint;
+			global::MODEL.Resource.Attribute.backgroundTintMode = global::HangedMan.Resource.Attribute.backgroundTintMode;
+			global::MODEL.Resource.Attribute.barLength = global::HangedMan.Resource.Attribute.barLength;
+			global::MODEL.Resource.Attribute.borderlessButtonStyle = global::HangedMan.Resource.Attribute.borderlessButtonStyle;
+			global::MODEL.Resource.Attribute.buttonBarButtonStyle = global::HangedMan.Resource.Attribute.buttonBarButtonStyle;
+			global::MODEL.Resource.Attribute.buttonBarNegativeButtonStyle = global::HangedMan.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::MODEL.Resource.Attribute.buttonBarNeutralButtonStyle = global::HangedMan.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::MODEL.Resource.Attribute.buttonBarPositiveButtonStyle = global::HangedMan.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::MODEL.Resource.Attribute.buttonBarStyle = global::HangedMan.Resource.Attribute.buttonBarStyle;
+			global::MODEL.Resource.Attribute.buttonCompat = global::HangedMan.Resource.Attribute.buttonCompat;
+			global::MODEL.Resource.Attribute.buttonGravity = global::HangedMan.Resource.Attribute.buttonGravity;
+			global::MODEL.Resource.Attribute.buttonIconDimen = global::HangedMan.Resource.Attribute.buttonIconDimen;
+			global::MODEL.Resource.Attribute.buttonPanelSideLayout = global::HangedMan.Resource.Attribute.buttonPanelSideLayout;
+			global::MODEL.Resource.Attribute.buttonStyle = global::HangedMan.Resource.Attribute.buttonStyle;
+			global::MODEL.Resource.Attribute.buttonStyleSmall = global::HangedMan.Resource.Attribute.buttonStyleSmall;
+			global::MODEL.Resource.Attribute.buttonTint = global::HangedMan.Resource.Attribute.buttonTint;
+			global::MODEL.Resource.Attribute.buttonTintMode = global::HangedMan.Resource.Attribute.buttonTintMode;
+			global::MODEL.Resource.Attribute.checkboxStyle = global::HangedMan.Resource.Attribute.checkboxStyle;
+			global::MODEL.Resource.Attribute.checkedTextViewStyle = global::HangedMan.Resource.Attribute.checkedTextViewStyle;
+			global::MODEL.Resource.Attribute.closeIcon = global::HangedMan.Resource.Attribute.closeIcon;
+			global::MODEL.Resource.Attribute.closeItemLayout = global::HangedMan.Resource.Attribute.closeItemLayout;
+			global::MODEL.Resource.Attribute.collapseContentDescription = global::HangedMan.Resource.Attribute.collapseContentDescription;
+			global::MODEL.Resource.Attribute.collapseIcon = global::HangedMan.Resource.Attribute.collapseIcon;
+			global::MODEL.Resource.Attribute.color = global::HangedMan.Resource.Attribute.color;
+			global::MODEL.Resource.Attribute.colorAccent = global::HangedMan.Resource.Attribute.colorAccent;
+			global::MODEL.Resource.Attribute.colorBackgroundFloating = global::HangedMan.Resource.Attribute.colorBackgroundFloating;
+			global::MODEL.Resource.Attribute.colorButtonNormal = global::HangedMan.Resource.Attribute.colorButtonNormal;
+			global::MODEL.Resource.Attribute.colorControlActivated = global::HangedMan.Resource.Attribute.colorControlActivated;
+			global::MODEL.Resource.Attribute.colorControlHighlight = global::HangedMan.Resource.Attribute.colorControlHighlight;
+			global::MODEL.Resource.Attribute.colorControlNormal = global::HangedMan.Resource.Attribute.colorControlNormal;
+			global::MODEL.Resource.Attribute.colorError = global::HangedMan.Resource.Attribute.colorError;
+			global::MODEL.Resource.Attribute.colorPrimary = global::HangedMan.Resource.Attribute.colorPrimary;
+			global::MODEL.Resource.Attribute.colorPrimaryDark = global::HangedMan.Resource.Attribute.colorPrimaryDark;
+			global::MODEL.Resource.Attribute.colorSwitchThumbNormal = global::HangedMan.Resource.Attribute.colorSwitchThumbNormal;
+			global::MODEL.Resource.Attribute.commitIcon = global::HangedMan.Resource.Attribute.commitIcon;
+			global::MODEL.Resource.Attribute.contentDescription = global::HangedMan.Resource.Attribute.contentDescription;
+			global::MODEL.Resource.Attribute.contentInsetEnd = global::HangedMan.Resource.Attribute.contentInsetEnd;
+			global::MODEL.Resource.Attribute.contentInsetEndWithActions = global::HangedMan.Resource.Attribute.contentInsetEndWithActions;
+			global::MODEL.Resource.Attribute.contentInsetLeft = global::HangedMan.Resource.Attribute.contentInsetLeft;
+			global::MODEL.Resource.Attribute.contentInsetRight = global::HangedMan.Resource.Attribute.contentInsetRight;
+			global::MODEL.Resource.Attribute.contentInsetStart = global::HangedMan.Resource.Attribute.contentInsetStart;
+			global::MODEL.Resource.Attribute.contentInsetStartWithNavigation = global::HangedMan.Resource.Attribute.contentInsetStartWithNavigation;
+			global::MODEL.Resource.Attribute.controlBackground = global::HangedMan.Resource.Attribute.controlBackground;
+			global::MODEL.Resource.Attribute.customNavigationLayout = global::HangedMan.Resource.Attribute.customNavigationLayout;
+			global::MODEL.Resource.Attribute.defaultQueryHint = global::HangedMan.Resource.Attribute.defaultQueryHint;
+			global::MODEL.Resource.Attribute.dialogCornerRadius = global::HangedMan.Resource.Attribute.dialogCornerRadius;
+			global::MODEL.Resource.Attribute.dialogPreferredPadding = global::HangedMan.Resource.Attribute.dialogPreferredPadding;
+			global::MODEL.Resource.Attribute.dialogTheme = global::HangedMan.Resource.Attribute.dialogTheme;
+			global::MODEL.Resource.Attribute.displayOptions = global::HangedMan.Resource.Attribute.displayOptions;
+			global::MODEL.Resource.Attribute.divider = global::HangedMan.Resource.Attribute.divider;
+			global::MODEL.Resource.Attribute.dividerHorizontal = global::HangedMan.Resource.Attribute.dividerHorizontal;
+			global::MODEL.Resource.Attribute.dividerPadding = global::HangedMan.Resource.Attribute.dividerPadding;
+			global::MODEL.Resource.Attribute.dividerVertical = global::HangedMan.Resource.Attribute.dividerVertical;
+			global::MODEL.Resource.Attribute.drawableBottomCompat = global::HangedMan.Resource.Attribute.drawableBottomCompat;
+			global::MODEL.Resource.Attribute.drawableEndCompat = global::HangedMan.Resource.Attribute.drawableEndCompat;
+			global::MODEL.Resource.Attribute.drawableLeftCompat = global::HangedMan.Resource.Attribute.drawableLeftCompat;
+			global::MODEL.Resource.Attribute.drawableRightCompat = global::HangedMan.Resource.Attribute.drawableRightCompat;
+			global::MODEL.Resource.Attribute.drawableSize = global::HangedMan.Resource.Attribute.drawableSize;
+			global::MODEL.Resource.Attribute.drawableStartCompat = global::HangedMan.Resource.Attribute.drawableStartCompat;
+			global::MODEL.Resource.Attribute.drawableTint = global::HangedMan.Resource.Attribute.drawableTint;
+			global::MODEL.Resource.Attribute.drawableTintMode = global::HangedMan.Resource.Attribute.drawableTintMode;
+			global::MODEL.Resource.Attribute.drawableTopCompat = global::HangedMan.Resource.Attribute.drawableTopCompat;
+			global::MODEL.Resource.Attribute.drawerArrowStyle = global::HangedMan.Resource.Attribute.drawerArrowStyle;
+			global::MODEL.Resource.Attribute.drawerLayoutStyle = global::HangedMan.Resource.Attribute.drawerLayoutStyle;
+			global::MODEL.Resource.Attribute.dropdownListPreferredItemHeight = global::HangedMan.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::MODEL.Resource.Attribute.dropDownListViewStyle = global::HangedMan.Resource.Attribute.dropDownListViewStyle;
+			global::MODEL.Resource.Attribute.editTextBackground = global::HangedMan.Resource.Attribute.editTextBackground;
+			global::MODEL.Resource.Attribute.editTextColor = global::HangedMan.Resource.Attribute.editTextColor;
+			global::MODEL.Resource.Attribute.editTextStyle = global::HangedMan.Resource.Attribute.editTextStyle;
+			global::MODEL.Resource.Attribute.elevation = global::HangedMan.Resource.Attribute.elevation;
+			global::MODEL.Resource.Attribute.expandActivityOverflowButtonDrawable = global::HangedMan.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::MODEL.Resource.Attribute.firstBaselineToTopHeight = global::HangedMan.Resource.Attribute.firstBaselineToTopHeight;
+			global::MODEL.Resource.Attribute.font = global::HangedMan.Resource.Attribute.font;
+			global::MODEL.Resource.Attribute.fontFamily = global::HangedMan.Resource.Attribute.fontFamily;
+			global::MODEL.Resource.Attribute.fontProviderAuthority = global::HangedMan.Resource.Attribute.fontProviderAuthority;
+			global::MODEL.Resource.Attribute.fontProviderCerts = global::HangedMan.Resource.Attribute.fontProviderCerts;
+			global::MODEL.Resource.Attribute.fontProviderFetchStrategy = global::HangedMan.Resource.Attribute.fontProviderFetchStrategy;
+			global::MODEL.Resource.Attribute.fontProviderFetchTimeout = global::HangedMan.Resource.Attribute.fontProviderFetchTimeout;
+			global::MODEL.Resource.Attribute.fontProviderPackage = global::HangedMan.Resource.Attribute.fontProviderPackage;
+			global::MODEL.Resource.Attribute.fontProviderQuery = global::HangedMan.Resource.Attribute.fontProviderQuery;
+			global::MODEL.Resource.Attribute.fontStyle = global::HangedMan.Resource.Attribute.fontStyle;
+			global::MODEL.Resource.Attribute.fontVariationSettings = global::HangedMan.Resource.Attribute.fontVariationSettings;
+			global::MODEL.Resource.Attribute.fontWeight = global::HangedMan.Resource.Attribute.fontWeight;
+			global::MODEL.Resource.Attribute.gapBetweenBars = global::HangedMan.Resource.Attribute.gapBetweenBars;
+			global::MODEL.Resource.Attribute.goIcon = global::HangedMan.Resource.Attribute.goIcon;
+			global::MODEL.Resource.Attribute.height = global::HangedMan.Resource.Attribute.height;
+			global::MODEL.Resource.Attribute.hideOnContentScroll = global::HangedMan.Resource.Attribute.hideOnContentScroll;
+			global::MODEL.Resource.Attribute.homeAsUpIndicator = global::HangedMan.Resource.Attribute.homeAsUpIndicator;
+			global::MODEL.Resource.Attribute.homeLayout = global::HangedMan.Resource.Attribute.homeLayout;
+			global::MODEL.Resource.Attribute.icon = global::HangedMan.Resource.Attribute.icon;
+			global::MODEL.Resource.Attribute.iconifiedByDefault = global::HangedMan.Resource.Attribute.iconifiedByDefault;
+			global::MODEL.Resource.Attribute.iconTint = global::HangedMan.Resource.Attribute.iconTint;
+			global::MODEL.Resource.Attribute.iconTintMode = global::HangedMan.Resource.Attribute.iconTintMode;
+			global::MODEL.Resource.Attribute.imageButtonStyle = global::HangedMan.Resource.Attribute.imageButtonStyle;
+			global::MODEL.Resource.Attribute.indeterminateProgressStyle = global::HangedMan.Resource.Attribute.indeterminateProgressStyle;
+			global::MODEL.Resource.Attribute.initialActivityCount = global::HangedMan.Resource.Attribute.initialActivityCount;
+			global::MODEL.Resource.Attribute.isLightTheme = global::HangedMan.Resource.Attribute.isLightTheme;
+			global::MODEL.Resource.Attribute.itemPadding = global::HangedMan.Resource.Attribute.itemPadding;
+			global::MODEL.Resource.Attribute.lastBaselineToBottomHeight = global::HangedMan.Resource.Attribute.lastBaselineToBottomHeight;
+			global::MODEL.Resource.Attribute.layout = global::HangedMan.Resource.Attribute.layout;
+			global::MODEL.Resource.Attribute.lineHeight = global::HangedMan.Resource.Attribute.lineHeight;
+			global::MODEL.Resource.Attribute.listChoiceBackgroundIndicator = global::HangedMan.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::MODEL.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::HangedMan.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::MODEL.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::HangedMan.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::MODEL.Resource.Attribute.listDividerAlertDialog = global::HangedMan.Resource.Attribute.listDividerAlertDialog;
+			global::MODEL.Resource.Attribute.listItemLayout = global::HangedMan.Resource.Attribute.listItemLayout;
+			global::MODEL.Resource.Attribute.listLayout = global::HangedMan.Resource.Attribute.listLayout;
+			global::MODEL.Resource.Attribute.listMenuViewStyle = global::HangedMan.Resource.Attribute.listMenuViewStyle;
+			global::MODEL.Resource.Attribute.listPopupWindowStyle = global::HangedMan.Resource.Attribute.listPopupWindowStyle;
+			global::MODEL.Resource.Attribute.listPreferredItemHeight = global::HangedMan.Resource.Attribute.listPreferredItemHeight;
+			global::MODEL.Resource.Attribute.listPreferredItemHeightLarge = global::HangedMan.Resource.Attribute.listPreferredItemHeightLarge;
+			global::MODEL.Resource.Attribute.listPreferredItemHeightSmall = global::HangedMan.Resource.Attribute.listPreferredItemHeightSmall;
+			global::MODEL.Resource.Attribute.listPreferredItemPaddingEnd = global::HangedMan.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::MODEL.Resource.Attribute.listPreferredItemPaddingLeft = global::HangedMan.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::MODEL.Resource.Attribute.listPreferredItemPaddingRight = global::HangedMan.Resource.Attribute.listPreferredItemPaddingRight;
+			global::MODEL.Resource.Attribute.listPreferredItemPaddingStart = global::HangedMan.Resource.Attribute.listPreferredItemPaddingStart;
+			global::MODEL.Resource.Attribute.logo = global::HangedMan.Resource.Attribute.logo;
+			global::MODEL.Resource.Attribute.logoDescription = global::HangedMan.Resource.Attribute.logoDescription;
+			global::MODEL.Resource.Attribute.maxButtonHeight = global::HangedMan.Resource.Attribute.maxButtonHeight;
+			global::MODEL.Resource.Attribute.measureWithLargestChild = global::HangedMan.Resource.Attribute.measureWithLargestChild;
+			global::MODEL.Resource.Attribute.menu = global::HangedMan.Resource.Attribute.menu;
+			global::MODEL.Resource.Attribute.multiChoiceItemLayout = global::HangedMan.Resource.Attribute.multiChoiceItemLayout;
+			global::MODEL.Resource.Attribute.navigationContentDescription = global::HangedMan.Resource.Attribute.navigationContentDescription;
+			global::MODEL.Resource.Attribute.navigationIcon = global::HangedMan.Resource.Attribute.navigationIcon;
+			global::MODEL.Resource.Attribute.navigationMode = global::HangedMan.Resource.Attribute.navigationMode;
+			global::MODEL.Resource.Attribute.numericModifiers = global::HangedMan.Resource.Attribute.numericModifiers;
+			global::MODEL.Resource.Attribute.overlapAnchor = global::HangedMan.Resource.Attribute.overlapAnchor;
+			global::MODEL.Resource.Attribute.paddingBottomNoButtons = global::HangedMan.Resource.Attribute.paddingBottomNoButtons;
+			global::MODEL.Resource.Attribute.paddingEnd = global::HangedMan.Resource.Attribute.paddingEnd;
+			global::MODEL.Resource.Attribute.paddingStart = global::HangedMan.Resource.Attribute.paddingStart;
+			global::MODEL.Resource.Attribute.paddingTopNoTitle = global::HangedMan.Resource.Attribute.paddingTopNoTitle;
+			global::MODEL.Resource.Attribute.panelBackground = global::HangedMan.Resource.Attribute.panelBackground;
+			global::MODEL.Resource.Attribute.panelMenuListTheme = global::HangedMan.Resource.Attribute.panelMenuListTheme;
+			global::MODEL.Resource.Attribute.panelMenuListWidth = global::HangedMan.Resource.Attribute.panelMenuListWidth;
+			global::MODEL.Resource.Attribute.popupMenuStyle = global::HangedMan.Resource.Attribute.popupMenuStyle;
+			global::MODEL.Resource.Attribute.popupTheme = global::HangedMan.Resource.Attribute.popupTheme;
+			global::MODEL.Resource.Attribute.popupWindowStyle = global::HangedMan.Resource.Attribute.popupWindowStyle;
+			global::MODEL.Resource.Attribute.preserveIconSpacing = global::HangedMan.Resource.Attribute.preserveIconSpacing;
+			global::MODEL.Resource.Attribute.progressBarPadding = global::HangedMan.Resource.Attribute.progressBarPadding;
+			global::MODEL.Resource.Attribute.progressBarStyle = global::HangedMan.Resource.Attribute.progressBarStyle;
+			global::MODEL.Resource.Attribute.queryBackground = global::HangedMan.Resource.Attribute.queryBackground;
+			global::MODEL.Resource.Attribute.queryHint = global::HangedMan.Resource.Attribute.queryHint;
+			global::MODEL.Resource.Attribute.radioButtonStyle = global::HangedMan.Resource.Attribute.radioButtonStyle;
+			global::MODEL.Resource.Attribute.ratingBarStyle = global::HangedMan.Resource.Attribute.ratingBarStyle;
+			global::MODEL.Resource.Attribute.ratingBarStyleIndicator = global::HangedMan.Resource.Attribute.ratingBarStyleIndicator;
+			global::MODEL.Resource.Attribute.ratingBarStyleSmall = global::HangedMan.Resource.Attribute.ratingBarStyleSmall;
+			global::MODEL.Resource.Attribute.searchHintIcon = global::HangedMan.Resource.Attribute.searchHintIcon;
+			global::MODEL.Resource.Attribute.searchIcon = global::HangedMan.Resource.Attribute.searchIcon;
+			global::MODEL.Resource.Attribute.searchViewStyle = global::HangedMan.Resource.Attribute.searchViewStyle;
+			global::MODEL.Resource.Attribute.seekBarStyle = global::HangedMan.Resource.Attribute.seekBarStyle;
+			global::MODEL.Resource.Attribute.selectableItemBackground = global::HangedMan.Resource.Attribute.selectableItemBackground;
+			global::MODEL.Resource.Attribute.selectableItemBackgroundBorderless = global::HangedMan.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::MODEL.Resource.Attribute.showAsAction = global::HangedMan.Resource.Attribute.showAsAction;
+			global::MODEL.Resource.Attribute.showDividers = global::HangedMan.Resource.Attribute.showDividers;
+			global::MODEL.Resource.Attribute.showText = global::HangedMan.Resource.Attribute.showText;
+			global::MODEL.Resource.Attribute.showTitle = global::HangedMan.Resource.Attribute.showTitle;
+			global::MODEL.Resource.Attribute.singleChoiceItemLayout = global::HangedMan.Resource.Attribute.singleChoiceItemLayout;
+			global::MODEL.Resource.Attribute.spinBars = global::HangedMan.Resource.Attribute.spinBars;
+			global::MODEL.Resource.Attribute.spinnerDropDownItemStyle = global::HangedMan.Resource.Attribute.spinnerDropDownItemStyle;
+			global::MODEL.Resource.Attribute.spinnerStyle = global::HangedMan.Resource.Attribute.spinnerStyle;
+			global::MODEL.Resource.Attribute.splitTrack = global::HangedMan.Resource.Attribute.splitTrack;
+			global::MODEL.Resource.Attribute.srcCompat = global::HangedMan.Resource.Attribute.srcCompat;
+			global::MODEL.Resource.Attribute.state_above_anchor = global::HangedMan.Resource.Attribute.state_above_anchor;
+			global::MODEL.Resource.Attribute.subMenuArrow = global::HangedMan.Resource.Attribute.subMenuArrow;
+			global::MODEL.Resource.Attribute.submitBackground = global::HangedMan.Resource.Attribute.submitBackground;
+			global::MODEL.Resource.Attribute.subtitle = global::HangedMan.Resource.Attribute.subtitle;
+			global::MODEL.Resource.Attribute.subtitleTextAppearance = global::HangedMan.Resource.Attribute.subtitleTextAppearance;
+			global::MODEL.Resource.Attribute.subtitleTextColor = global::HangedMan.Resource.Attribute.subtitleTextColor;
+			global::MODEL.Resource.Attribute.subtitleTextStyle = global::HangedMan.Resource.Attribute.subtitleTextStyle;
+			global::MODEL.Resource.Attribute.suggestionRowLayout = global::HangedMan.Resource.Attribute.suggestionRowLayout;
+			global::MODEL.Resource.Attribute.switchMinWidth = global::HangedMan.Resource.Attribute.switchMinWidth;
+			global::MODEL.Resource.Attribute.switchPadding = global::HangedMan.Resource.Attribute.switchPadding;
+			global::MODEL.Resource.Attribute.switchStyle = global::HangedMan.Resource.Attribute.switchStyle;
+			global::MODEL.Resource.Attribute.switchTextAppearance = global::HangedMan.Resource.Attribute.switchTextAppearance;
+			global::MODEL.Resource.Attribute.textAllCaps = global::HangedMan.Resource.Attribute.textAllCaps;
+			global::MODEL.Resource.Attribute.textAppearanceLargePopupMenu = global::HangedMan.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::MODEL.Resource.Attribute.textAppearanceListItem = global::HangedMan.Resource.Attribute.textAppearanceListItem;
+			global::MODEL.Resource.Attribute.textAppearanceListItemSecondary = global::HangedMan.Resource.Attribute.textAppearanceListItemSecondary;
+			global::MODEL.Resource.Attribute.textAppearanceListItemSmall = global::HangedMan.Resource.Attribute.textAppearanceListItemSmall;
+			global::MODEL.Resource.Attribute.textAppearancePopupMenuHeader = global::HangedMan.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::MODEL.Resource.Attribute.textAppearanceSearchResultSubtitle = global::HangedMan.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::MODEL.Resource.Attribute.textAppearanceSearchResultTitle = global::HangedMan.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::MODEL.Resource.Attribute.textAppearanceSmallPopupMenu = global::HangedMan.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::MODEL.Resource.Attribute.textColorAlertDialogListItem = global::HangedMan.Resource.Attribute.textColorAlertDialogListItem;
+			global::MODEL.Resource.Attribute.textColorSearchUrl = global::HangedMan.Resource.Attribute.textColorSearchUrl;
+			global::MODEL.Resource.Attribute.textLocale = global::HangedMan.Resource.Attribute.textLocale;
+			global::MODEL.Resource.Attribute.theme = global::HangedMan.Resource.Attribute.theme;
+			global::MODEL.Resource.Attribute.thickness = global::HangedMan.Resource.Attribute.thickness;
+			global::MODEL.Resource.Attribute.thumbTextPadding = global::HangedMan.Resource.Attribute.thumbTextPadding;
+			global::MODEL.Resource.Attribute.thumbTint = global::HangedMan.Resource.Attribute.thumbTint;
+			global::MODEL.Resource.Attribute.thumbTintMode = global::HangedMan.Resource.Attribute.thumbTintMode;
+			global::MODEL.Resource.Attribute.tickMark = global::HangedMan.Resource.Attribute.tickMark;
+			global::MODEL.Resource.Attribute.tickMarkTint = global::HangedMan.Resource.Attribute.tickMarkTint;
+			global::MODEL.Resource.Attribute.tickMarkTintMode = global::HangedMan.Resource.Attribute.tickMarkTintMode;
+			global::MODEL.Resource.Attribute.tint = global::HangedMan.Resource.Attribute.tint;
+			global::MODEL.Resource.Attribute.tintMode = global::HangedMan.Resource.Attribute.tintMode;
+			global::MODEL.Resource.Attribute.title = global::HangedMan.Resource.Attribute.title;
+			global::MODEL.Resource.Attribute.titleMargin = global::HangedMan.Resource.Attribute.titleMargin;
+			global::MODEL.Resource.Attribute.titleMarginBottom = global::HangedMan.Resource.Attribute.titleMarginBottom;
+			global::MODEL.Resource.Attribute.titleMarginEnd = global::HangedMan.Resource.Attribute.titleMarginEnd;
+			global::MODEL.Resource.Attribute.titleMargins = global::HangedMan.Resource.Attribute.titleMargins;
+			global::MODEL.Resource.Attribute.titleMarginStart = global::HangedMan.Resource.Attribute.titleMarginStart;
+			global::MODEL.Resource.Attribute.titleMarginTop = global::HangedMan.Resource.Attribute.titleMarginTop;
+			global::MODEL.Resource.Attribute.titleTextAppearance = global::HangedMan.Resource.Attribute.titleTextAppearance;
+			global::MODEL.Resource.Attribute.titleTextColor = global::HangedMan.Resource.Attribute.titleTextColor;
+			global::MODEL.Resource.Attribute.titleTextStyle = global::HangedMan.Resource.Attribute.titleTextStyle;
+			global::MODEL.Resource.Attribute.toolbarNavigationButtonStyle = global::HangedMan.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::MODEL.Resource.Attribute.toolbarStyle = global::HangedMan.Resource.Attribute.toolbarStyle;
+			global::MODEL.Resource.Attribute.tooltipForegroundColor = global::HangedMan.Resource.Attribute.tooltipForegroundColor;
+			global::MODEL.Resource.Attribute.tooltipFrameBackground = global::HangedMan.Resource.Attribute.tooltipFrameBackground;
+			global::MODEL.Resource.Attribute.tooltipText = global::HangedMan.Resource.Attribute.tooltipText;
+			global::MODEL.Resource.Attribute.track = global::HangedMan.Resource.Attribute.track;
+			global::MODEL.Resource.Attribute.trackTint = global::HangedMan.Resource.Attribute.trackTint;
+			global::MODEL.Resource.Attribute.trackTintMode = global::HangedMan.Resource.Attribute.trackTintMode;
+			global::MODEL.Resource.Attribute.ttcIndex = global::HangedMan.Resource.Attribute.ttcIndex;
+			global::MODEL.Resource.Attribute.viewInflaterClass = global::HangedMan.Resource.Attribute.viewInflaterClass;
+			global::MODEL.Resource.Attribute.voiceIcon = global::HangedMan.Resource.Attribute.voiceIcon;
+			global::MODEL.Resource.Attribute.windowActionBar = global::HangedMan.Resource.Attribute.windowActionBar;
+			global::MODEL.Resource.Attribute.windowActionBarOverlay = global::HangedMan.Resource.Attribute.windowActionBarOverlay;
+			global::MODEL.Resource.Attribute.windowActionModeOverlay = global::HangedMan.Resource.Attribute.windowActionModeOverlay;
+			global::MODEL.Resource.Attribute.windowFixedHeightMajor = global::HangedMan.Resource.Attribute.windowFixedHeightMajor;
+			global::MODEL.Resource.Attribute.windowFixedHeightMinor = global::HangedMan.Resource.Attribute.windowFixedHeightMinor;
+			global::MODEL.Resource.Attribute.windowFixedWidthMajor = global::HangedMan.Resource.Attribute.windowFixedWidthMajor;
+			global::MODEL.Resource.Attribute.windowFixedWidthMinor = global::HangedMan.Resource.Attribute.windowFixedWidthMinor;
+			global::MODEL.Resource.Attribute.windowMinWidthMajor = global::HangedMan.Resource.Attribute.windowMinWidthMajor;
+			global::MODEL.Resource.Attribute.windowMinWidthMinor = global::HangedMan.Resource.Attribute.windowMinWidthMinor;
+			global::MODEL.Resource.Attribute.windowNoTitle = global::HangedMan.Resource.Attribute.windowNoTitle;
+			global::MODEL.Resource.Boolean.abc_action_bar_embed_tabs = global::HangedMan.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::MODEL.Resource.Boolean.abc_allow_stacked_button_bar = global::HangedMan.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::MODEL.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::HangedMan.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::MODEL.Resource.Color.abc_background_cache_hint_selector_material_dark = global::HangedMan.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::MODEL.Resource.Color.abc_background_cache_hint_selector_material_light = global::HangedMan.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::MODEL.Resource.Color.abc_btn_colored_borderless_text_material = global::HangedMan.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::MODEL.Resource.Color.abc_btn_colored_text_material = global::HangedMan.Resource.Color.abc_btn_colored_text_material;
+			global::MODEL.Resource.Color.abc_color_highlight_material = global::HangedMan.Resource.Color.abc_color_highlight_material;
+			global::MODEL.Resource.Color.abc_decor_view_status_guard = global::HangedMan.Resource.Color.abc_decor_view_status_guard;
+			global::MODEL.Resource.Color.abc_decor_view_status_guard_light = global::HangedMan.Resource.Color.abc_decor_view_status_guard_light;
+			global::MODEL.Resource.Color.abc_hint_foreground_material_dark = global::HangedMan.Resource.Color.abc_hint_foreground_material_dark;
+			global::MODEL.Resource.Color.abc_hint_foreground_material_light = global::HangedMan.Resource.Color.abc_hint_foreground_material_light;
+			global::MODEL.Resource.Color.abc_primary_text_disable_only_material_dark = global::HangedMan.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::MODEL.Resource.Color.abc_primary_text_disable_only_material_light = global::HangedMan.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::MODEL.Resource.Color.abc_primary_text_material_dark = global::HangedMan.Resource.Color.abc_primary_text_material_dark;
+			global::MODEL.Resource.Color.abc_primary_text_material_light = global::HangedMan.Resource.Color.abc_primary_text_material_light;
+			global::MODEL.Resource.Color.abc_search_url_text = global::HangedMan.Resource.Color.abc_search_url_text;
+			global::MODEL.Resource.Color.abc_search_url_text_normal = global::HangedMan.Resource.Color.abc_search_url_text_normal;
+			global::MODEL.Resource.Color.abc_search_url_text_pressed = global::HangedMan.Resource.Color.abc_search_url_text_pressed;
+			global::MODEL.Resource.Color.abc_search_url_text_selected = global::HangedMan.Resource.Color.abc_search_url_text_selected;
+			global::MODEL.Resource.Color.abc_secondary_text_material_dark = global::HangedMan.Resource.Color.abc_secondary_text_material_dark;
+			global::MODEL.Resource.Color.abc_secondary_text_material_light = global::HangedMan.Resource.Color.abc_secondary_text_material_light;
+			global::MODEL.Resource.Color.abc_tint_btn_checkable = global::HangedMan.Resource.Color.abc_tint_btn_checkable;
+			global::MODEL.Resource.Color.abc_tint_default = global::HangedMan.Resource.Color.abc_tint_default;
+			global::MODEL.Resource.Color.abc_tint_edittext = global::HangedMan.Resource.Color.abc_tint_edittext;
+			global::MODEL.Resource.Color.abc_tint_seek_thumb = global::HangedMan.Resource.Color.abc_tint_seek_thumb;
+			global::MODEL.Resource.Color.abc_tint_spinner = global::HangedMan.Resource.Color.abc_tint_spinner;
+			global::MODEL.Resource.Color.abc_tint_switch_track = global::HangedMan.Resource.Color.abc_tint_switch_track;
+			global::MODEL.Resource.Color.accent_material_dark = global::HangedMan.Resource.Color.accent_material_dark;
+			global::MODEL.Resource.Color.accent_material_light = global::HangedMan.Resource.Color.accent_material_light;
+			global::MODEL.Resource.Color.androidx_core_ripple_material_light = global::HangedMan.Resource.Color.androidx_core_ripple_material_light;
+			global::MODEL.Resource.Color.androidx_core_secondary_text_default_material_light = global::HangedMan.Resource.Color.androidx_core_secondary_text_default_material_light;
+			global::MODEL.Resource.Color.background_floating_material_dark = global::HangedMan.Resource.Color.background_floating_material_dark;
+			global::MODEL.Resource.Color.background_floating_material_light = global::HangedMan.Resource.Color.background_floating_material_light;
+			global::MODEL.Resource.Color.background_material_dark = global::HangedMan.Resource.Color.background_material_dark;
+			global::MODEL.Resource.Color.background_material_light = global::HangedMan.Resource.Color.background_material_light;
+			global::MODEL.Resource.Color.bright_foreground_disabled_material_dark = global::HangedMan.Resource.Color.bright_foreground_disabled_material_dark;
+			global::MODEL.Resource.Color.bright_foreground_disabled_material_light = global::HangedMan.Resource.Color.bright_foreground_disabled_material_light;
+			global::MODEL.Resource.Color.bright_foreground_inverse_material_dark = global::HangedMan.Resource.Color.bright_foreground_inverse_material_dark;
+			global::MODEL.Resource.Color.bright_foreground_inverse_material_light = global::HangedMan.Resource.Color.bright_foreground_inverse_material_light;
+			global::MODEL.Resource.Color.bright_foreground_material_dark = global::HangedMan.Resource.Color.bright_foreground_material_dark;
+			global::MODEL.Resource.Color.bright_foreground_material_light = global::HangedMan.Resource.Color.bright_foreground_material_light;
+			global::MODEL.Resource.Color.button_material_dark = global::HangedMan.Resource.Color.button_material_dark;
+			global::MODEL.Resource.Color.button_material_light = global::HangedMan.Resource.Color.button_material_light;
+			global::MODEL.Resource.Color.dim_foreground_disabled_material_dark = global::HangedMan.Resource.Color.dim_foreground_disabled_material_dark;
+			global::MODEL.Resource.Color.dim_foreground_disabled_material_light = global::HangedMan.Resource.Color.dim_foreground_disabled_material_light;
+			global::MODEL.Resource.Color.dim_foreground_material_dark = global::HangedMan.Resource.Color.dim_foreground_material_dark;
+			global::MODEL.Resource.Color.dim_foreground_material_light = global::HangedMan.Resource.Color.dim_foreground_material_light;
+			global::MODEL.Resource.Color.error_color_material_dark = global::HangedMan.Resource.Color.error_color_material_dark;
+			global::MODEL.Resource.Color.error_color_material_light = global::HangedMan.Resource.Color.error_color_material_light;
+			global::MODEL.Resource.Color.foreground_material_dark = global::HangedMan.Resource.Color.foreground_material_dark;
+			global::MODEL.Resource.Color.foreground_material_light = global::HangedMan.Resource.Color.foreground_material_light;
+			global::MODEL.Resource.Color.highlighted_text_material_dark = global::HangedMan.Resource.Color.highlighted_text_material_dark;
+			global::MODEL.Resource.Color.highlighted_text_material_light = global::HangedMan.Resource.Color.highlighted_text_material_light;
+			global::MODEL.Resource.Color.material_blue_grey_800 = global::HangedMan.Resource.Color.material_blue_grey_800;
+			global::MODEL.Resource.Color.material_blue_grey_900 = global::HangedMan.Resource.Color.material_blue_grey_900;
+			global::MODEL.Resource.Color.material_blue_grey_950 = global::HangedMan.Resource.Color.material_blue_grey_950;
+			global::MODEL.Resource.Color.material_deep_teal_200 = global::HangedMan.Resource.Color.material_deep_teal_200;
+			global::MODEL.Resource.Color.material_deep_teal_500 = global::HangedMan.Resource.Color.material_deep_teal_500;
+			global::MODEL.Resource.Color.material_grey_100 = global::HangedMan.Resource.Color.material_grey_100;
+			global::MODEL.Resource.Color.material_grey_300 = global::HangedMan.Resource.Color.material_grey_300;
+			global::MODEL.Resource.Color.material_grey_50 = global::HangedMan.Resource.Color.material_grey_50;
+			global::MODEL.Resource.Color.material_grey_600 = global::HangedMan.Resource.Color.material_grey_600;
+			global::MODEL.Resource.Color.material_grey_800 = global::HangedMan.Resource.Color.material_grey_800;
+			global::MODEL.Resource.Color.material_grey_850 = global::HangedMan.Resource.Color.material_grey_850;
+			global::MODEL.Resource.Color.material_grey_900 = global::HangedMan.Resource.Color.material_grey_900;
+			global::MODEL.Resource.Color.notification_action_color_filter = global::HangedMan.Resource.Color.notification_action_color_filter;
+			global::MODEL.Resource.Color.notification_icon_bg_color = global::HangedMan.Resource.Color.notification_icon_bg_color;
+			global::MODEL.Resource.Color.primary_dark_material_dark = global::HangedMan.Resource.Color.primary_dark_material_dark;
+			global::MODEL.Resource.Color.primary_dark_material_light = global::HangedMan.Resource.Color.primary_dark_material_light;
+			global::MODEL.Resource.Color.primary_material_dark = global::HangedMan.Resource.Color.primary_material_dark;
+			global::MODEL.Resource.Color.primary_material_light = global::HangedMan.Resource.Color.primary_material_light;
+			global::MODEL.Resource.Color.primary_text_default_material_dark = global::HangedMan.Resource.Color.primary_text_default_material_dark;
+			global::MODEL.Resource.Color.primary_text_default_material_light = global::HangedMan.Resource.Color.primary_text_default_material_light;
+			global::MODEL.Resource.Color.primary_text_disabled_material_dark = global::HangedMan.Resource.Color.primary_text_disabled_material_dark;
+			global::MODEL.Resource.Color.primary_text_disabled_material_light = global::HangedMan.Resource.Color.primary_text_disabled_material_light;
+			global::MODEL.Resource.Color.ripple_material_dark = global::HangedMan.Resource.Color.ripple_material_dark;
+			global::MODEL.Resource.Color.ripple_material_light = global::HangedMan.Resource.Color.ripple_material_light;
+			global::MODEL.Resource.Color.secondary_text_default_material_dark = global::HangedMan.Resource.Color.secondary_text_default_material_dark;
+			global::MODEL.Resource.Color.secondary_text_default_material_light = global::HangedMan.Resource.Color.secondary_text_default_material_light;
+			global::MODEL.Resource.Color.secondary_text_disabled_material_dark = global::HangedMan.Resource.Color.secondary_text_disabled_material_dark;
+			global::MODEL.Resource.Color.secondary_text_disabled_material_light = global::HangedMan.Resource.Color.secondary_text_disabled_material_light;
+			global::MODEL.Resource.Color.switch_thumb_disabled_material_dark = global::HangedMan.Resource.Color.switch_thumb_disabled_material_dark;
+			global::MODEL.Resource.Color.switch_thumb_disabled_material_light = global::HangedMan.Resource.Color.switch_thumb_disabled_material_light;
+			global::MODEL.Resource.Color.switch_thumb_material_dark = global::HangedMan.Resource.Color.switch_thumb_material_dark;
+			global::MODEL.Resource.Color.switch_thumb_material_light = global::HangedMan.Resource.Color.switch_thumb_material_light;
+			global::MODEL.Resource.Color.switch_thumb_normal_material_dark = global::HangedMan.Resource.Color.switch_thumb_normal_material_dark;
+			global::MODEL.Resource.Color.switch_thumb_normal_material_light = global::HangedMan.Resource.Color.switch_thumb_normal_material_light;
+			global::MODEL.Resource.Color.tooltip_background_dark = global::HangedMan.Resource.Color.tooltip_background_dark;
+			global::MODEL.Resource.Color.tooltip_background_light = global::HangedMan.Resource.Color.tooltip_background_light;
+			global::MODEL.Resource.Dimension.abc_action_bar_content_inset_material = global::HangedMan.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::HangedMan.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::MODEL.Resource.Dimension.abc_action_bar_default_height_material = global::HangedMan.Resource.Dimension.abc_action_bar_default_height_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_default_padding_end_material = global::HangedMan.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_default_padding_start_material = global::HangedMan.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_elevation_material = global::HangedMan.Resource.Dimension.abc_action_bar_elevation_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::HangedMan.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::HangedMan.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::HangedMan.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_stacked_max_height = global::HangedMan.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::MODEL.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::HangedMan.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::MODEL.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::HangedMan.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::HangedMan.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::MODEL.Resource.Dimension.abc_action_button_min_height_material = global::HangedMan.Resource.Dimension.abc_action_button_min_height_material;
+			global::MODEL.Resource.Dimension.abc_action_button_min_width_material = global::HangedMan.Resource.Dimension.abc_action_button_min_width_material;
+			global::MODEL.Resource.Dimension.abc_action_button_min_width_overflow_material = global::HangedMan.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::MODEL.Resource.Dimension.abc_alert_dialog_button_bar_height = global::HangedMan.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::MODEL.Resource.Dimension.abc_alert_dialog_button_dimen = global::HangedMan.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::MODEL.Resource.Dimension.abc_button_inset_horizontal_material = global::HangedMan.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::MODEL.Resource.Dimension.abc_button_inset_vertical_material = global::HangedMan.Resource.Dimension.abc_button_inset_vertical_material;
+			global::MODEL.Resource.Dimension.abc_button_padding_horizontal_material = global::HangedMan.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::MODEL.Resource.Dimension.abc_button_padding_vertical_material = global::HangedMan.Resource.Dimension.abc_button_padding_vertical_material;
+			global::MODEL.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::HangedMan.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::MODEL.Resource.Dimension.abc_config_prefDialogWidth = global::HangedMan.Resource.Dimension.abc_config_prefDialogWidth;
+			global::MODEL.Resource.Dimension.abc_control_corner_material = global::HangedMan.Resource.Dimension.abc_control_corner_material;
+			global::MODEL.Resource.Dimension.abc_control_inset_material = global::HangedMan.Resource.Dimension.abc_control_inset_material;
+			global::MODEL.Resource.Dimension.abc_control_padding_material = global::HangedMan.Resource.Dimension.abc_control_padding_material;
+			global::MODEL.Resource.Dimension.abc_dialog_corner_radius_material = global::HangedMan.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::MODEL.Resource.Dimension.abc_dialog_fixed_height_major = global::HangedMan.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::MODEL.Resource.Dimension.abc_dialog_fixed_height_minor = global::HangedMan.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::MODEL.Resource.Dimension.abc_dialog_fixed_width_major = global::HangedMan.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::MODEL.Resource.Dimension.abc_dialog_fixed_width_minor = global::HangedMan.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::MODEL.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::HangedMan.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::MODEL.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::HangedMan.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::MODEL.Resource.Dimension.abc_dialog_min_width_major = global::HangedMan.Resource.Dimension.abc_dialog_min_width_major;
+			global::MODEL.Resource.Dimension.abc_dialog_min_width_minor = global::HangedMan.Resource.Dimension.abc_dialog_min_width_minor;
+			global::MODEL.Resource.Dimension.abc_dialog_padding_material = global::HangedMan.Resource.Dimension.abc_dialog_padding_material;
+			global::MODEL.Resource.Dimension.abc_dialog_padding_top_material = global::HangedMan.Resource.Dimension.abc_dialog_padding_top_material;
+			global::MODEL.Resource.Dimension.abc_dialog_title_divider_material = global::HangedMan.Resource.Dimension.abc_dialog_title_divider_material;
+			global::MODEL.Resource.Dimension.abc_disabled_alpha_material_dark = global::HangedMan.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::MODEL.Resource.Dimension.abc_disabled_alpha_material_light = global::HangedMan.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::MODEL.Resource.Dimension.abc_dropdownitem_icon_width = global::HangedMan.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::MODEL.Resource.Dimension.abc_dropdownitem_text_padding_left = global::HangedMan.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::MODEL.Resource.Dimension.abc_dropdownitem_text_padding_right = global::HangedMan.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::MODEL.Resource.Dimension.abc_edit_text_inset_bottom_material = global::HangedMan.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::MODEL.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::HangedMan.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::MODEL.Resource.Dimension.abc_edit_text_inset_top_material = global::HangedMan.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::MODEL.Resource.Dimension.abc_floating_window_z = global::HangedMan.Resource.Dimension.abc_floating_window_z;
+			global::MODEL.Resource.Dimension.abc_list_item_height_large_material = global::HangedMan.Resource.Dimension.abc_list_item_height_large_material;
+			global::MODEL.Resource.Dimension.abc_list_item_height_material = global::HangedMan.Resource.Dimension.abc_list_item_height_material;
+			global::MODEL.Resource.Dimension.abc_list_item_height_small_material = global::HangedMan.Resource.Dimension.abc_list_item_height_small_material;
+			global::MODEL.Resource.Dimension.abc_list_item_padding_horizontal_material = global::HangedMan.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::MODEL.Resource.Dimension.abc_panel_menu_list_width = global::HangedMan.Resource.Dimension.abc_panel_menu_list_width;
+			global::MODEL.Resource.Dimension.abc_progress_bar_height_material = global::HangedMan.Resource.Dimension.abc_progress_bar_height_material;
+			global::MODEL.Resource.Dimension.abc_search_view_preferred_height = global::HangedMan.Resource.Dimension.abc_search_view_preferred_height;
+			global::MODEL.Resource.Dimension.abc_search_view_preferred_width = global::HangedMan.Resource.Dimension.abc_search_view_preferred_width;
+			global::MODEL.Resource.Dimension.abc_seekbar_track_background_height_material = global::HangedMan.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::MODEL.Resource.Dimension.abc_seekbar_track_progress_height_material = global::HangedMan.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::MODEL.Resource.Dimension.abc_select_dialog_padding_start_material = global::HangedMan.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::MODEL.Resource.Dimension.abc_switch_padding = global::HangedMan.Resource.Dimension.abc_switch_padding;
+			global::MODEL.Resource.Dimension.abc_text_size_body_1_material = global::HangedMan.Resource.Dimension.abc_text_size_body_1_material;
+			global::MODEL.Resource.Dimension.abc_text_size_body_2_material = global::HangedMan.Resource.Dimension.abc_text_size_body_2_material;
+			global::MODEL.Resource.Dimension.abc_text_size_button_material = global::HangedMan.Resource.Dimension.abc_text_size_button_material;
+			global::MODEL.Resource.Dimension.abc_text_size_caption_material = global::HangedMan.Resource.Dimension.abc_text_size_caption_material;
+			global::MODEL.Resource.Dimension.abc_text_size_display_1_material = global::HangedMan.Resource.Dimension.abc_text_size_display_1_material;
+			global::MODEL.Resource.Dimension.abc_text_size_display_2_material = global::HangedMan.Resource.Dimension.abc_text_size_display_2_material;
+			global::MODEL.Resource.Dimension.abc_text_size_display_3_material = global::HangedMan.Resource.Dimension.abc_text_size_display_3_material;
+			global::MODEL.Resource.Dimension.abc_text_size_display_4_material = global::HangedMan.Resource.Dimension.abc_text_size_display_4_material;
+			global::MODEL.Resource.Dimension.abc_text_size_headline_material = global::HangedMan.Resource.Dimension.abc_text_size_headline_material;
+			global::MODEL.Resource.Dimension.abc_text_size_large_material = global::HangedMan.Resource.Dimension.abc_text_size_large_material;
+			global::MODEL.Resource.Dimension.abc_text_size_medium_material = global::HangedMan.Resource.Dimension.abc_text_size_medium_material;
+			global::MODEL.Resource.Dimension.abc_text_size_menu_header_material = global::HangedMan.Resource.Dimension.abc_text_size_menu_header_material;
+			global::MODEL.Resource.Dimension.abc_text_size_menu_material = global::HangedMan.Resource.Dimension.abc_text_size_menu_material;
+			global::MODEL.Resource.Dimension.abc_text_size_small_material = global::HangedMan.Resource.Dimension.abc_text_size_small_material;
+			global::MODEL.Resource.Dimension.abc_text_size_subhead_material = global::HangedMan.Resource.Dimension.abc_text_size_subhead_material;
+			global::MODEL.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::HangedMan.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::MODEL.Resource.Dimension.abc_text_size_title_material = global::HangedMan.Resource.Dimension.abc_text_size_title_material;
+			global::MODEL.Resource.Dimension.abc_text_size_title_material_toolbar = global::HangedMan.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::MODEL.Resource.Dimension.compat_button_inset_horizontal_material = global::HangedMan.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::MODEL.Resource.Dimension.compat_button_inset_vertical_material = global::HangedMan.Resource.Dimension.compat_button_inset_vertical_material;
+			global::MODEL.Resource.Dimension.compat_button_padding_horizontal_material = global::HangedMan.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::MODEL.Resource.Dimension.compat_button_padding_vertical_material = global::HangedMan.Resource.Dimension.compat_button_padding_vertical_material;
+			global::MODEL.Resource.Dimension.compat_control_corner_material = global::HangedMan.Resource.Dimension.compat_control_corner_material;
+			global::MODEL.Resource.Dimension.compat_notification_large_icon_max_height = global::HangedMan.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::MODEL.Resource.Dimension.compat_notification_large_icon_max_width = global::HangedMan.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::MODEL.Resource.Dimension.def_drawer_elevation = global::HangedMan.Resource.Dimension.def_drawer_elevation;
+			global::MODEL.Resource.Dimension.disabled_alpha_material_dark = global::HangedMan.Resource.Dimension.disabled_alpha_material_dark;
+			global::MODEL.Resource.Dimension.disabled_alpha_material_light = global::HangedMan.Resource.Dimension.disabled_alpha_material_light;
+			global::MODEL.Resource.Dimension.highlight_alpha_material_colored = global::HangedMan.Resource.Dimension.highlight_alpha_material_colored;
+			global::MODEL.Resource.Dimension.highlight_alpha_material_dark = global::HangedMan.Resource.Dimension.highlight_alpha_material_dark;
+			global::MODEL.Resource.Dimension.highlight_alpha_material_light = global::HangedMan.Resource.Dimension.highlight_alpha_material_light;
+			global::MODEL.Resource.Dimension.hint_alpha_material_dark = global::HangedMan.Resource.Dimension.hint_alpha_material_dark;
+			global::MODEL.Resource.Dimension.hint_alpha_material_light = global::HangedMan.Resource.Dimension.hint_alpha_material_light;
+			global::MODEL.Resource.Dimension.hint_pressed_alpha_material_dark = global::HangedMan.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::MODEL.Resource.Dimension.hint_pressed_alpha_material_light = global::HangedMan.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::MODEL.Resource.Dimension.notification_action_icon_size = global::HangedMan.Resource.Dimension.notification_action_icon_size;
+			global::MODEL.Resource.Dimension.notification_action_text_size = global::HangedMan.Resource.Dimension.notification_action_text_size;
+			global::MODEL.Resource.Dimension.notification_big_circle_margin = global::HangedMan.Resource.Dimension.notification_big_circle_margin;
+			global::MODEL.Resource.Dimension.notification_content_margin_start = global::HangedMan.Resource.Dimension.notification_content_margin_start;
+			global::MODEL.Resource.Dimension.notification_large_icon_height = global::HangedMan.Resource.Dimension.notification_large_icon_height;
+			global::MODEL.Resource.Dimension.notification_large_icon_width = global::HangedMan.Resource.Dimension.notification_large_icon_width;
+			global::MODEL.Resource.Dimension.notification_main_column_padding_top = global::HangedMan.Resource.Dimension.notification_main_column_padding_top;
+			global::MODEL.Resource.Dimension.notification_media_narrow_margin = global::HangedMan.Resource.Dimension.notification_media_narrow_margin;
+			global::MODEL.Resource.Dimension.notification_right_icon_size = global::HangedMan.Resource.Dimension.notification_right_icon_size;
+			global::MODEL.Resource.Dimension.notification_right_side_padding_top = global::HangedMan.Resource.Dimension.notification_right_side_padding_top;
+			global::MODEL.Resource.Dimension.notification_small_icon_background_padding = global::HangedMan.Resource.Dimension.notification_small_icon_background_padding;
+			global::MODEL.Resource.Dimension.notification_small_icon_size_as_large = global::HangedMan.Resource.Dimension.notification_small_icon_size_as_large;
+			global::MODEL.Resource.Dimension.notification_subtext_size = global::HangedMan.Resource.Dimension.notification_subtext_size;
+			global::MODEL.Resource.Dimension.notification_top_pad = global::HangedMan.Resource.Dimension.notification_top_pad;
+			global::MODEL.Resource.Dimension.notification_top_pad_large_text = global::HangedMan.Resource.Dimension.notification_top_pad_large_text;
+			global::MODEL.Resource.Dimension.tooltip_corner_radius = global::HangedMan.Resource.Dimension.tooltip_corner_radius;
+			global::MODEL.Resource.Dimension.tooltip_horizontal_padding = global::HangedMan.Resource.Dimension.tooltip_horizontal_padding;
+			global::MODEL.Resource.Dimension.tooltip_margin = global::HangedMan.Resource.Dimension.tooltip_margin;
+			global::MODEL.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::HangedMan.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::MODEL.Resource.Dimension.tooltip_precise_anchor_threshold = global::HangedMan.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::MODEL.Resource.Dimension.tooltip_vertical_padding = global::HangedMan.Resource.Dimension.tooltip_vertical_padding;
+			global::MODEL.Resource.Dimension.tooltip_y_offset_non_touch = global::HangedMan.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::MODEL.Resource.Dimension.tooltip_y_offset_touch = global::HangedMan.Resource.Dimension.tooltip_y_offset_touch;
+			global::MODEL.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_action_bar_item_background_material = global::HangedMan.Resource.Drawable.abc_action_bar_item_background_material;
+			global::MODEL.Resource.Drawable.abc_btn_borderless_material = global::HangedMan.Resource.Drawable.abc_btn_borderless_material;
+			global::MODEL.Resource.Drawable.abc_btn_check_material = global::HangedMan.Resource.Drawable.abc_btn_check_material;
+			global::MODEL.Resource.Drawable.abc_btn_check_material_anim = global::HangedMan.Resource.Drawable.abc_btn_check_material_anim;
+			global::MODEL.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::HangedMan.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::MODEL.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::HangedMan.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::MODEL.Resource.Drawable.abc_btn_colored_material = global::HangedMan.Resource.Drawable.abc_btn_colored_material;
+			global::MODEL.Resource.Drawable.abc_btn_default_mtrl_shape = global::HangedMan.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::MODEL.Resource.Drawable.abc_btn_radio_material = global::HangedMan.Resource.Drawable.abc_btn_radio_material;
+			global::MODEL.Resource.Drawable.abc_btn_radio_material_anim = global::HangedMan.Resource.Drawable.abc_btn_radio_material_anim;
+			global::MODEL.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::HangedMan.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::MODEL.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::HangedMan.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::MODEL.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::HangedMan.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::MODEL.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::HangedMan.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::MODEL.Resource.Drawable.abc_cab_background_internal_bg = global::HangedMan.Resource.Drawable.abc_cab_background_internal_bg;
+			global::MODEL.Resource.Drawable.abc_cab_background_top_material = global::HangedMan.Resource.Drawable.abc_cab_background_top_material;
+			global::MODEL.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_control_background_material = global::HangedMan.Resource.Drawable.abc_control_background_material;
+			global::MODEL.Resource.Drawable.abc_dialog_material_background = global::HangedMan.Resource.Drawable.abc_dialog_material_background;
+			global::MODEL.Resource.Drawable.abc_edit_text_material = global::HangedMan.Resource.Drawable.abc_edit_text_material;
+			global::MODEL.Resource.Drawable.abc_ic_ab_back_material = global::HangedMan.Resource.Drawable.abc_ic_ab_back_material;
+			global::MODEL.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::HangedMan.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::MODEL.Resource.Drawable.abc_ic_clear_material = global::HangedMan.Resource.Drawable.abc_ic_clear_material;
+			global::MODEL.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_go_search_api_material = global::HangedMan.Resource.Drawable.abc_ic_go_search_api_material;
+			global::MODEL.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::HangedMan.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_menu_overflow_material = global::HangedMan.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::MODEL.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::HangedMan.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_search_api_material = global::HangedMan.Resource.Drawable.abc_ic_search_api_material;
+			global::MODEL.Resource.Drawable.abc_ic_star_black_16dp = global::HangedMan.Resource.Drawable.abc_ic_star_black_16dp;
+			global::MODEL.Resource.Drawable.abc_ic_star_black_36dp = global::HangedMan.Resource.Drawable.abc_ic_star_black_36dp;
+			global::MODEL.Resource.Drawable.abc_ic_star_black_48dp = global::HangedMan.Resource.Drawable.abc_ic_star_black_48dp;
+			global::MODEL.Resource.Drawable.abc_ic_star_half_black_16dp = global::HangedMan.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::MODEL.Resource.Drawable.abc_ic_star_half_black_36dp = global::HangedMan.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::MODEL.Resource.Drawable.abc_ic_star_half_black_48dp = global::HangedMan.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::MODEL.Resource.Drawable.abc_ic_voice_search_api_material = global::HangedMan.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::MODEL.Resource.Drawable.abc_item_background_holo_dark = global::HangedMan.Resource.Drawable.abc_item_background_holo_dark;
+			global::MODEL.Resource.Drawable.abc_item_background_holo_light = global::HangedMan.Resource.Drawable.abc_item_background_holo_light;
+			global::MODEL.Resource.Drawable.abc_list_divider_material = global::HangedMan.Resource.Drawable.abc_list_divider_material;
+			global::MODEL.Resource.Drawable.abc_list_divider_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_list_focused_holo = global::HangedMan.Resource.Drawable.abc_list_focused_holo;
+			global::MODEL.Resource.Drawable.abc_list_longpressed_holo = global::HangedMan.Resource.Drawable.abc_list_longpressed_holo;
+			global::MODEL.Resource.Drawable.abc_list_pressed_holo_dark = global::HangedMan.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::MODEL.Resource.Drawable.abc_list_pressed_holo_light = global::HangedMan.Resource.Drawable.abc_list_pressed_holo_light;
+			global::MODEL.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::HangedMan.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::MODEL.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::HangedMan.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::MODEL.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::HangedMan.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::MODEL.Resource.Drawable.abc_list_selector_disabled_holo_light = global::HangedMan.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::MODEL.Resource.Drawable.abc_list_selector_holo_dark = global::HangedMan.Resource.Drawable.abc_list_selector_holo_dark;
+			global::MODEL.Resource.Drawable.abc_list_selector_holo_light = global::HangedMan.Resource.Drawable.abc_list_selector_holo_light;
+			global::MODEL.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::HangedMan.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::MODEL.Resource.Drawable.abc_popup_background_mtrl_mult = global::HangedMan.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::MODEL.Resource.Drawable.abc_ratingbar_indicator_material = global::HangedMan.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::MODEL.Resource.Drawable.abc_ratingbar_material = global::HangedMan.Resource.Drawable.abc_ratingbar_material;
+			global::MODEL.Resource.Drawable.abc_ratingbar_small_material = global::HangedMan.Resource.Drawable.abc_ratingbar_small_material;
+			global::MODEL.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::HangedMan.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::MODEL.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::HangedMan.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::MODEL.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_seekbar_thumb_material = global::HangedMan.Resource.Drawable.abc_seekbar_thumb_material;
+			global::MODEL.Resource.Drawable.abc_seekbar_tick_mark_material = global::HangedMan.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::MODEL.Resource.Drawable.abc_seekbar_track_material = global::HangedMan.Resource.Drawable.abc_seekbar_track_material;
+			global::MODEL.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::HangedMan.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::MODEL.Resource.Drawable.abc_spinner_textfield_background_material = global::HangedMan.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::MODEL.Resource.Drawable.abc_switch_thumb_material = global::HangedMan.Resource.Drawable.abc_switch_thumb_material;
+			global::MODEL.Resource.Drawable.abc_switch_track_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_tab_indicator_material = global::HangedMan.Resource.Drawable.abc_tab_indicator_material;
+			global::MODEL.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::HangedMan.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_textfield_search_material = global::HangedMan.Resource.Drawable.abc_textfield_search_material;
+			global::MODEL.Resource.Drawable.abc_text_cursor_material = global::HangedMan.Resource.Drawable.abc_text_cursor_material;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::HangedMan.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::HangedMan.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::HangedMan.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::HangedMan.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::HangedMan.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::HangedMan.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::MODEL.Resource.Drawable.abc_vector_test = global::HangedMan.Resource.Drawable.abc_vector_test;
+			global::MODEL.Resource.Drawable.btn_checkbox_checked_mtrl = global::HangedMan.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::MODEL.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::HangedMan.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::MODEL.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::HangedMan.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::MODEL.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::HangedMan.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::MODEL.Resource.Drawable.btn_radio_off_mtrl = global::HangedMan.Resource.Drawable.btn_radio_off_mtrl;
+			global::MODEL.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::HangedMan.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::MODEL.Resource.Drawable.btn_radio_on_mtrl = global::HangedMan.Resource.Drawable.btn_radio_on_mtrl;
+			global::MODEL.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::HangedMan.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::MODEL.Resource.Drawable.notification_action_background = global::HangedMan.Resource.Drawable.notification_action_background;
+			global::MODEL.Resource.Drawable.notification_bg = global::HangedMan.Resource.Drawable.notification_bg;
+			global::MODEL.Resource.Drawable.notification_bg_low = global::HangedMan.Resource.Drawable.notification_bg_low;
+			global::MODEL.Resource.Drawable.notification_bg_low_normal = global::HangedMan.Resource.Drawable.notification_bg_low_normal;
+			global::MODEL.Resource.Drawable.notification_bg_low_pressed = global::HangedMan.Resource.Drawable.notification_bg_low_pressed;
+			global::MODEL.Resource.Drawable.notification_bg_normal = global::HangedMan.Resource.Drawable.notification_bg_normal;
+			global::MODEL.Resource.Drawable.notification_bg_normal_pressed = global::HangedMan.Resource.Drawable.notification_bg_normal_pressed;
+			global::MODEL.Resource.Drawable.notification_icon_background = global::HangedMan.Resource.Drawable.notification_icon_background;
+			global::MODEL.Resource.Drawable.notification_template_icon_bg = global::HangedMan.Resource.Drawable.notification_template_icon_bg;
+			global::MODEL.Resource.Drawable.notification_template_icon_low_bg = global::HangedMan.Resource.Drawable.notification_template_icon_low_bg;
+			global::MODEL.Resource.Drawable.notification_tile_bg = global::HangedMan.Resource.Drawable.notification_tile_bg;
+			global::MODEL.Resource.Drawable.notify_panel_notification_icon_bg = global::HangedMan.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::MODEL.Resource.Drawable.tooltip_frame_dark = global::HangedMan.Resource.Drawable.tooltip_frame_dark;
+			global::MODEL.Resource.Drawable.tooltip_frame_light = global::HangedMan.Resource.Drawable.tooltip_frame_light;
+			global::MODEL.Resource.Id.accessibility_action_clickable_span = global::HangedMan.Resource.Id.accessibility_action_clickable_span;
+			global::MODEL.Resource.Id.accessibility_custom_action_0 = global::HangedMan.Resource.Id.accessibility_custom_action_0;
+			global::MODEL.Resource.Id.accessibility_custom_action_1 = global::HangedMan.Resource.Id.accessibility_custom_action_1;
+			global::MODEL.Resource.Id.accessibility_custom_action_10 = global::HangedMan.Resource.Id.accessibility_custom_action_10;
+			global::MODEL.Resource.Id.accessibility_custom_action_11 = global::HangedMan.Resource.Id.accessibility_custom_action_11;
+			global::MODEL.Resource.Id.accessibility_custom_action_12 = global::HangedMan.Resource.Id.accessibility_custom_action_12;
+			global::MODEL.Resource.Id.accessibility_custom_action_13 = global::HangedMan.Resource.Id.accessibility_custom_action_13;
+			global::MODEL.Resource.Id.accessibility_custom_action_14 = global::HangedMan.Resource.Id.accessibility_custom_action_14;
+			global::MODEL.Resource.Id.accessibility_custom_action_15 = global::HangedMan.Resource.Id.accessibility_custom_action_15;
+			global::MODEL.Resource.Id.accessibility_custom_action_16 = global::HangedMan.Resource.Id.accessibility_custom_action_16;
+			global::MODEL.Resource.Id.accessibility_custom_action_17 = global::HangedMan.Resource.Id.accessibility_custom_action_17;
+			global::MODEL.Resource.Id.accessibility_custom_action_18 = global::HangedMan.Resource.Id.accessibility_custom_action_18;
+			global::MODEL.Resource.Id.accessibility_custom_action_19 = global::HangedMan.Resource.Id.accessibility_custom_action_19;
+			global::MODEL.Resource.Id.accessibility_custom_action_2 = global::HangedMan.Resource.Id.accessibility_custom_action_2;
+			global::MODEL.Resource.Id.accessibility_custom_action_20 = global::HangedMan.Resource.Id.accessibility_custom_action_20;
+			global::MODEL.Resource.Id.accessibility_custom_action_21 = global::HangedMan.Resource.Id.accessibility_custom_action_21;
+			global::MODEL.Resource.Id.accessibility_custom_action_22 = global::HangedMan.Resource.Id.accessibility_custom_action_22;
+			global::MODEL.Resource.Id.accessibility_custom_action_23 = global::HangedMan.Resource.Id.accessibility_custom_action_23;
+			global::MODEL.Resource.Id.accessibility_custom_action_24 = global::HangedMan.Resource.Id.accessibility_custom_action_24;
+			global::MODEL.Resource.Id.accessibility_custom_action_25 = global::HangedMan.Resource.Id.accessibility_custom_action_25;
+			global::MODEL.Resource.Id.accessibility_custom_action_26 = global::HangedMan.Resource.Id.accessibility_custom_action_26;
+			global::MODEL.Resource.Id.accessibility_custom_action_27 = global::HangedMan.Resource.Id.accessibility_custom_action_27;
+			global::MODEL.Resource.Id.accessibility_custom_action_28 = global::HangedMan.Resource.Id.accessibility_custom_action_28;
+			global::MODEL.Resource.Id.accessibility_custom_action_29 = global::HangedMan.Resource.Id.accessibility_custom_action_29;
+			global::MODEL.Resource.Id.accessibility_custom_action_3 = global::HangedMan.Resource.Id.accessibility_custom_action_3;
+			global::MODEL.Resource.Id.accessibility_custom_action_30 = global::HangedMan.Resource.Id.accessibility_custom_action_30;
+			global::MODEL.Resource.Id.accessibility_custom_action_31 = global::HangedMan.Resource.Id.accessibility_custom_action_31;
+			global::MODEL.Resource.Id.accessibility_custom_action_4 = global::HangedMan.Resource.Id.accessibility_custom_action_4;
+			global::MODEL.Resource.Id.accessibility_custom_action_5 = global::HangedMan.Resource.Id.accessibility_custom_action_5;
+			global::MODEL.Resource.Id.accessibility_custom_action_6 = global::HangedMan.Resource.Id.accessibility_custom_action_6;
+			global::MODEL.Resource.Id.accessibility_custom_action_7 = global::HangedMan.Resource.Id.accessibility_custom_action_7;
+			global::MODEL.Resource.Id.accessibility_custom_action_8 = global::HangedMan.Resource.Id.accessibility_custom_action_8;
+			global::MODEL.Resource.Id.accessibility_custom_action_9 = global::HangedMan.Resource.Id.accessibility_custom_action_9;
+			global::MODEL.Resource.Id.actions = global::HangedMan.Resource.Id.actions;
+			global::MODEL.Resource.Id.action_bar = global::HangedMan.Resource.Id.action_bar;
+			global::MODEL.Resource.Id.action_bar_activity_content = global::HangedMan.Resource.Id.action_bar_activity_content;
+			global::MODEL.Resource.Id.action_bar_container = global::HangedMan.Resource.Id.action_bar_container;
+			global::MODEL.Resource.Id.action_bar_root = global::HangedMan.Resource.Id.action_bar_root;
+			global::MODEL.Resource.Id.action_bar_spinner = global::HangedMan.Resource.Id.action_bar_spinner;
+			global::MODEL.Resource.Id.action_bar_subtitle = global::HangedMan.Resource.Id.action_bar_subtitle;
+			global::MODEL.Resource.Id.action_bar_title = global::HangedMan.Resource.Id.action_bar_title;
+			global::MODEL.Resource.Id.action_container = global::HangedMan.Resource.Id.action_container;
+			global::MODEL.Resource.Id.action_context_bar = global::HangedMan.Resource.Id.action_context_bar;
+			global::MODEL.Resource.Id.action_divider = global::HangedMan.Resource.Id.action_divider;
+			global::MODEL.Resource.Id.action_image = global::HangedMan.Resource.Id.action_image;
+			global::MODEL.Resource.Id.action_menu_divider = global::HangedMan.Resource.Id.action_menu_divider;
+			global::MODEL.Resource.Id.action_menu_presenter = global::HangedMan.Resource.Id.action_menu_presenter;
+			global::MODEL.Resource.Id.action_mode_bar = global::HangedMan.Resource.Id.action_mode_bar;
+			global::MODEL.Resource.Id.action_mode_bar_stub = global::HangedMan.Resource.Id.action_mode_bar_stub;
+			global::MODEL.Resource.Id.action_mode_close_button = global::HangedMan.Resource.Id.action_mode_close_button;
+			global::MODEL.Resource.Id.action_text = global::HangedMan.Resource.Id.action_text;
+			global::MODEL.Resource.Id.activity_chooser_view_content = global::HangedMan.Resource.Id.activity_chooser_view_content;
+			global::MODEL.Resource.Id.add = global::HangedMan.Resource.Id.add;
+			global::MODEL.Resource.Id.alertTitle = global::HangedMan.Resource.Id.alertTitle;
+			global::MODEL.Resource.Id.ALT = global::HangedMan.Resource.Id.ALT;
+			global::MODEL.Resource.Id.always = global::HangedMan.Resource.Id.always;
+			global::MODEL.Resource.Id.async = global::HangedMan.Resource.Id.async;
+			global::MODEL.Resource.Id.beginning = global::HangedMan.Resource.Id.beginning;
+			global::MODEL.Resource.Id.blocking = global::HangedMan.Resource.Id.blocking;
+			global::MODEL.Resource.Id.bottom = global::HangedMan.Resource.Id.bottom;
+			global::MODEL.Resource.Id.buttonPanel = global::HangedMan.Resource.Id.buttonPanel;
+			global::MODEL.Resource.Id.center_vertical = global::HangedMan.Resource.Id.center_vertical;
+			global::MODEL.Resource.Id.checkbox = global::HangedMan.Resource.Id.checkbox;
+			global::MODEL.Resource.Id.@checked = global::HangedMan.Resource.Id.@checked;
+			global::MODEL.Resource.Id.chronometer = global::HangedMan.Resource.Id.chronometer;
+			global::MODEL.Resource.Id.collapseActionView = global::HangedMan.Resource.Id.collapseActionView;
+			global::MODEL.Resource.Id.content = global::HangedMan.Resource.Id.content;
+			global::MODEL.Resource.Id.contentPanel = global::HangedMan.Resource.Id.contentPanel;
+			global::MODEL.Resource.Id.CTRL = global::HangedMan.Resource.Id.CTRL;
+			global::MODEL.Resource.Id.custom = global::HangedMan.Resource.Id.custom;
+			global::MODEL.Resource.Id.customPanel = global::HangedMan.Resource.Id.customPanel;
+			global::MODEL.Resource.Id.decor_content_parent = global::HangedMan.Resource.Id.decor_content_parent;
+			global::MODEL.Resource.Id.default_activity_button = global::HangedMan.Resource.Id.default_activity_button;
+			global::MODEL.Resource.Id.dialog_button = global::HangedMan.Resource.Id.dialog_button;
+			global::MODEL.Resource.Id.disableHome = global::HangedMan.Resource.Id.disableHome;
+			global::MODEL.Resource.Id.edit_query = global::HangedMan.Resource.Id.edit_query;
+			global::MODEL.Resource.Id.end = global::HangedMan.Resource.Id.end;
+			global::MODEL.Resource.Id.expanded_menu = global::HangedMan.Resource.Id.expanded_menu;
+			global::MODEL.Resource.Id.expand_activities_button = global::HangedMan.Resource.Id.expand_activities_button;
+			global::MODEL.Resource.Id.forever = global::HangedMan.Resource.Id.forever;
+			global::MODEL.Resource.Id.fragment_container_view_tag = global::HangedMan.Resource.Id.fragment_container_view_tag;
+			global::MODEL.Resource.Id.FUNCTION = global::HangedMan.Resource.Id.FUNCTION;
+			global::MODEL.Resource.Id.group_divider = global::HangedMan.Resource.Id.group_divider;
+			global::MODEL.Resource.Id.home = global::HangedMan.Resource.Id.home;
+			global::MODEL.Resource.Id.homeAsUp = global::HangedMan.Resource.Id.homeAsUp;
+			global::MODEL.Resource.Id.icon = global::HangedMan.Resource.Id.icon;
+			global::MODEL.Resource.Id.icon_group = global::HangedMan.Resource.Id.icon_group;
+			global::MODEL.Resource.Id.ifRoom = global::HangedMan.Resource.Id.ifRoom;
+			global::MODEL.Resource.Id.image = global::HangedMan.Resource.Id.image;
+			global::MODEL.Resource.Id.info = global::HangedMan.Resource.Id.info;
+			global::MODEL.Resource.Id.italic = global::HangedMan.Resource.Id.italic;
+			global::MODEL.Resource.Id.line1 = global::HangedMan.Resource.Id.line1;
+			global::MODEL.Resource.Id.line3 = global::HangedMan.Resource.Id.line3;
+			global::MODEL.Resource.Id.listMode = global::HangedMan.Resource.Id.listMode;
+			global::MODEL.Resource.Id.list_item = global::HangedMan.Resource.Id.list_item;
+			global::MODEL.Resource.Id.message = global::HangedMan.Resource.Id.message;
+			global::MODEL.Resource.Id.META = global::HangedMan.Resource.Id.META;
+			global::MODEL.Resource.Id.middle = global::HangedMan.Resource.Id.middle;
+			global::MODEL.Resource.Id.multiply = global::HangedMan.Resource.Id.multiply;
+			global::MODEL.Resource.Id.never = global::HangedMan.Resource.Id.never;
+			global::MODEL.Resource.Id.none = global::HangedMan.Resource.Id.none;
+			global::MODEL.Resource.Id.normal = global::HangedMan.Resource.Id.normal;
+			global::MODEL.Resource.Id.notification_background = global::HangedMan.Resource.Id.notification_background;
+			global::MODEL.Resource.Id.notification_main_column = global::HangedMan.Resource.Id.notification_main_column;
+			global::MODEL.Resource.Id.notification_main_column_container = global::HangedMan.Resource.Id.notification_main_column_container;
+			global::MODEL.Resource.Id.off = global::HangedMan.Resource.Id.off;
+			global::MODEL.Resource.Id.on = global::HangedMan.Resource.Id.on;
+			global::MODEL.Resource.Id.parentPanel = global::HangedMan.Resource.Id.parentPanel;
+			global::MODEL.Resource.Id.progress_circular = global::HangedMan.Resource.Id.progress_circular;
+			global::MODEL.Resource.Id.progress_horizontal = global::HangedMan.Resource.Id.progress_horizontal;
+			global::MODEL.Resource.Id.radio = global::HangedMan.Resource.Id.radio;
+			global::MODEL.Resource.Id.right_icon = global::HangedMan.Resource.Id.right_icon;
+			global::MODEL.Resource.Id.right_side = global::HangedMan.Resource.Id.right_side;
+			global::MODEL.Resource.Id.screen = global::HangedMan.Resource.Id.screen;
+			global::MODEL.Resource.Id.scrollIndicatorDown = global::HangedMan.Resource.Id.scrollIndicatorDown;
+			global::MODEL.Resource.Id.scrollIndicatorUp = global::HangedMan.Resource.Id.scrollIndicatorUp;
+			global::MODEL.Resource.Id.scrollView = global::HangedMan.Resource.Id.scrollView;
+			global::MODEL.Resource.Id.search_badge = global::HangedMan.Resource.Id.search_badge;
+			global::MODEL.Resource.Id.search_bar = global::HangedMan.Resource.Id.search_bar;
+			global::MODEL.Resource.Id.search_button = global::HangedMan.Resource.Id.search_button;
+			global::MODEL.Resource.Id.search_close_btn = global::HangedMan.Resource.Id.search_close_btn;
+			global::MODEL.Resource.Id.search_edit_frame = global::HangedMan.Resource.Id.search_edit_frame;
+			global::MODEL.Resource.Id.search_go_btn = global::HangedMan.Resource.Id.search_go_btn;
+			global::MODEL.Resource.Id.search_mag_icon = global::HangedMan.Resource.Id.search_mag_icon;
+			global::MODEL.Resource.Id.search_plate = global::HangedMan.Resource.Id.search_plate;
+			global::MODEL.Resource.Id.search_src_text = global::HangedMan.Resource.Id.search_src_text;
+			global::MODEL.Resource.Id.search_voice_btn = global::HangedMan.Resource.Id.search_voice_btn;
+			global::MODEL.Resource.Id.select_dialog_listview = global::HangedMan.Resource.Id.select_dialog_listview;
+			global::MODEL.Resource.Id.SHIFT = global::HangedMan.Resource.Id.SHIFT;
+			global::MODEL.Resource.Id.shortcut = global::HangedMan.Resource.Id.shortcut;
+			global::MODEL.Resource.Id.showCustom = global::HangedMan.Resource.Id.showCustom;
+			global::MODEL.Resource.Id.showHome = global::HangedMan.Resource.Id.showHome;
+			global::MODEL.Resource.Id.showTitle = global::HangedMan.Resource.Id.showTitle;
+			global::MODEL.Resource.Id.spacer = global::HangedMan.Resource.Id.spacer;
+			global::MODEL.Resource.Id.split_action_bar = global::HangedMan.Resource.Id.split_action_bar;
+			global::MODEL.Resource.Id.src_atop = global::HangedMan.Resource.Id.src_atop;
+			global::MODEL.Resource.Id.src_in = global::HangedMan.Resource.Id.src_in;
+			global::MODEL.Resource.Id.src_over = global::HangedMan.Resource.Id.src_over;
+			global::MODEL.Resource.Id.submenuarrow = global::HangedMan.Resource.Id.submenuarrow;
+			global::MODEL.Resource.Id.submit_area = global::HangedMan.Resource.Id.submit_area;
+			global::MODEL.Resource.Id.SYM = global::HangedMan.Resource.Id.SYM;
+			global::MODEL.Resource.Id.tabMode = global::HangedMan.Resource.Id.tabMode;
+			global::MODEL.Resource.Id.tag_accessibility_actions = global::HangedMan.Resource.Id.tag_accessibility_actions;
+			global::MODEL.Resource.Id.tag_accessibility_clickable_spans = global::HangedMan.Resource.Id.tag_accessibility_clickable_spans;
+			global::MODEL.Resource.Id.tag_accessibility_heading = global::HangedMan.Resource.Id.tag_accessibility_heading;
+			global::MODEL.Resource.Id.tag_accessibility_pane_title = global::HangedMan.Resource.Id.tag_accessibility_pane_title;
+			global::MODEL.Resource.Id.tag_screen_reader_focusable = global::HangedMan.Resource.Id.tag_screen_reader_focusable;
+			global::MODEL.Resource.Id.tag_transition_group = global::HangedMan.Resource.Id.tag_transition_group;
+			global::MODEL.Resource.Id.tag_unhandled_key_event_manager = global::HangedMan.Resource.Id.tag_unhandled_key_event_manager;
+			global::MODEL.Resource.Id.tag_unhandled_key_listeners = global::HangedMan.Resource.Id.tag_unhandled_key_listeners;
+			global::MODEL.Resource.Id.text = global::HangedMan.Resource.Id.text;
+			global::MODEL.Resource.Id.text2 = global::HangedMan.Resource.Id.text2;
+			global::MODEL.Resource.Id.textSpacerNoButtons = global::HangedMan.Resource.Id.textSpacerNoButtons;
+			global::MODEL.Resource.Id.textSpacerNoTitle = global::HangedMan.Resource.Id.textSpacerNoTitle;
+			global::MODEL.Resource.Id.time = global::HangedMan.Resource.Id.time;
+			global::MODEL.Resource.Id.title = global::HangedMan.Resource.Id.title;
+			global::MODEL.Resource.Id.titleDividerNoCustom = global::HangedMan.Resource.Id.titleDividerNoCustom;
+			global::MODEL.Resource.Id.title_template = global::HangedMan.Resource.Id.title_template;
+			global::MODEL.Resource.Id.top = global::HangedMan.Resource.Id.top;
+			global::MODEL.Resource.Id.topPanel = global::HangedMan.Resource.Id.topPanel;
+			global::MODEL.Resource.Id.@unchecked = global::HangedMan.Resource.Id.@unchecked;
+			global::MODEL.Resource.Id.uniform = global::HangedMan.Resource.Id.uniform;
+			global::MODEL.Resource.Id.up = global::HangedMan.Resource.Id.up;
+			global::MODEL.Resource.Id.useLogo = global::HangedMan.Resource.Id.useLogo;
+			global::MODEL.Resource.Id.view_tree_saved_state_registry_owner = global::HangedMan.Resource.Id.view_tree_saved_state_registry_owner;
+			global::MODEL.Resource.Id.visible_removing_fragment_view_tag = global::HangedMan.Resource.Id.visible_removing_fragment_view_tag;
+			global::MODEL.Resource.Id.withText = global::HangedMan.Resource.Id.withText;
+			global::MODEL.Resource.Id.wrap_content = global::HangedMan.Resource.Id.wrap_content;
+			global::MODEL.Resource.Integer.abc_config_activityDefaultDur = global::HangedMan.Resource.Integer.abc_config_activityDefaultDur;
+			global::MODEL.Resource.Integer.abc_config_activityShortDur = global::HangedMan.Resource.Integer.abc_config_activityShortDur;
+			global::MODEL.Resource.Integer.cancel_button_image_alpha = global::HangedMan.Resource.Integer.cancel_button_image_alpha;
+			global::MODEL.Resource.Integer.config_tooltipAnimTime = global::HangedMan.Resource.Integer.config_tooltipAnimTime;
+			global::MODEL.Resource.Integer.status_bar_notification_info_maxnum = global::HangedMan.Resource.Integer.status_bar_notification_info_maxnum;
+			global::MODEL.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::HangedMan.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::MODEL.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::HangedMan.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::MODEL.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::HangedMan.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::MODEL.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::HangedMan.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::MODEL.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::HangedMan.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::MODEL.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::HangedMan.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::MODEL.Resource.Interpolator.fast_out_slow_in = global::HangedMan.Resource.Interpolator.fast_out_slow_in;
+			global::MODEL.Resource.Layout.abc_action_bar_title_item = global::HangedMan.Resource.Layout.abc_action_bar_title_item;
+			global::MODEL.Resource.Layout.abc_action_bar_up_container = global::HangedMan.Resource.Layout.abc_action_bar_up_container;
+			global::MODEL.Resource.Layout.abc_action_menu_item_layout = global::HangedMan.Resource.Layout.abc_action_menu_item_layout;
+			global::MODEL.Resource.Layout.abc_action_menu_layout = global::HangedMan.Resource.Layout.abc_action_menu_layout;
+			global::MODEL.Resource.Layout.abc_action_mode_bar = global::HangedMan.Resource.Layout.abc_action_mode_bar;
+			global::MODEL.Resource.Layout.abc_action_mode_close_item_material = global::HangedMan.Resource.Layout.abc_action_mode_close_item_material;
+			global::MODEL.Resource.Layout.abc_activity_chooser_view = global::HangedMan.Resource.Layout.abc_activity_chooser_view;
+			global::MODEL.Resource.Layout.abc_activity_chooser_view_list_item = global::HangedMan.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::MODEL.Resource.Layout.abc_alert_dialog_button_bar_material = global::HangedMan.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::MODEL.Resource.Layout.abc_alert_dialog_material = global::HangedMan.Resource.Layout.abc_alert_dialog_material;
+			global::MODEL.Resource.Layout.abc_alert_dialog_title_material = global::HangedMan.Resource.Layout.abc_alert_dialog_title_material;
+			global::MODEL.Resource.Layout.abc_cascading_menu_item_layout = global::HangedMan.Resource.Layout.abc_cascading_menu_item_layout;
+			global::MODEL.Resource.Layout.abc_dialog_title_material = global::HangedMan.Resource.Layout.abc_dialog_title_material;
+			global::MODEL.Resource.Layout.abc_expanded_menu_layout = global::HangedMan.Resource.Layout.abc_expanded_menu_layout;
+			global::MODEL.Resource.Layout.abc_list_menu_item_checkbox = global::HangedMan.Resource.Layout.abc_list_menu_item_checkbox;
+			global::MODEL.Resource.Layout.abc_list_menu_item_icon = global::HangedMan.Resource.Layout.abc_list_menu_item_icon;
+			global::MODEL.Resource.Layout.abc_list_menu_item_layout = global::HangedMan.Resource.Layout.abc_list_menu_item_layout;
+			global::MODEL.Resource.Layout.abc_list_menu_item_radio = global::HangedMan.Resource.Layout.abc_list_menu_item_radio;
+			global::MODEL.Resource.Layout.abc_popup_menu_header_item_layout = global::HangedMan.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::MODEL.Resource.Layout.abc_popup_menu_item_layout = global::HangedMan.Resource.Layout.abc_popup_menu_item_layout;
+			global::MODEL.Resource.Layout.abc_screen_content_include = global::HangedMan.Resource.Layout.abc_screen_content_include;
+			global::MODEL.Resource.Layout.abc_screen_simple = global::HangedMan.Resource.Layout.abc_screen_simple;
+			global::MODEL.Resource.Layout.abc_screen_simple_overlay_action_mode = global::HangedMan.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::MODEL.Resource.Layout.abc_screen_toolbar = global::HangedMan.Resource.Layout.abc_screen_toolbar;
+			global::MODEL.Resource.Layout.abc_search_dropdown_item_icons_2line = global::HangedMan.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::MODEL.Resource.Layout.abc_search_view = global::HangedMan.Resource.Layout.abc_search_view;
+			global::MODEL.Resource.Layout.abc_select_dialog_material = global::HangedMan.Resource.Layout.abc_select_dialog_material;
+			global::MODEL.Resource.Layout.abc_tooltip = global::HangedMan.Resource.Layout.abc_tooltip;
+			global::MODEL.Resource.Layout.custom_dialog = global::HangedMan.Resource.Layout.custom_dialog;
+			global::MODEL.Resource.Layout.notification_action = global::HangedMan.Resource.Layout.notification_action;
+			global::MODEL.Resource.Layout.notification_action_tombstone = global::HangedMan.Resource.Layout.notification_action_tombstone;
+			global::MODEL.Resource.Layout.notification_template_custom_big = global::HangedMan.Resource.Layout.notification_template_custom_big;
+			global::MODEL.Resource.Layout.notification_template_icon_group = global::HangedMan.Resource.Layout.notification_template_icon_group;
+			global::MODEL.Resource.Layout.notification_template_part_chronometer = global::HangedMan.Resource.Layout.notification_template_part_chronometer;
+			global::MODEL.Resource.Layout.notification_template_part_time = global::HangedMan.Resource.Layout.notification_template_part_time;
+			global::MODEL.Resource.Layout.select_dialog_item_material = global::HangedMan.Resource.Layout.select_dialog_item_material;
+			global::MODEL.Resource.Layout.select_dialog_multichoice_material = global::HangedMan.Resource.Layout.select_dialog_multichoice_material;
+			global::MODEL.Resource.Layout.select_dialog_singlechoice_material = global::HangedMan.Resource.Layout.select_dialog_singlechoice_material;
+			global::MODEL.Resource.Layout.support_simple_spinner_dropdown_item = global::HangedMan.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::MODEL.Resource.String.abc_action_bar_home_description = global::HangedMan.Resource.String.abc_action_bar_home_description;
+			global::MODEL.Resource.String.abc_action_bar_up_description = global::HangedMan.Resource.String.abc_action_bar_up_description;
+			global::MODEL.Resource.String.abc_action_menu_overflow_description = global::HangedMan.Resource.String.abc_action_menu_overflow_description;
+			global::MODEL.Resource.String.abc_action_mode_done = global::HangedMan.Resource.String.abc_action_mode_done;
+			global::MODEL.Resource.String.abc_activitychooserview_choose_application = global::HangedMan.Resource.String.abc_activitychooserview_choose_application;
+			global::MODEL.Resource.String.abc_activity_chooser_view_see_all = global::HangedMan.Resource.String.abc_activity_chooser_view_see_all;
+			global::MODEL.Resource.String.abc_capital_off = global::HangedMan.Resource.String.abc_capital_off;
+			global::MODEL.Resource.String.abc_capital_on = global::HangedMan.Resource.String.abc_capital_on;
+			global::MODEL.Resource.String.abc_menu_alt_shortcut_label = global::HangedMan.Resource.String.abc_menu_alt_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_ctrl_shortcut_label = global::HangedMan.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_delete_shortcut_label = global::HangedMan.Resource.String.abc_menu_delete_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_enter_shortcut_label = global::HangedMan.Resource.String.abc_menu_enter_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_function_shortcut_label = global::HangedMan.Resource.String.abc_menu_function_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_meta_shortcut_label = global::HangedMan.Resource.String.abc_menu_meta_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_shift_shortcut_label = global::HangedMan.Resource.String.abc_menu_shift_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_space_shortcut_label = global::HangedMan.Resource.String.abc_menu_space_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_sym_shortcut_label = global::HangedMan.Resource.String.abc_menu_sym_shortcut_label;
+			global::MODEL.Resource.String.abc_prepend_shortcut_label = global::HangedMan.Resource.String.abc_prepend_shortcut_label;
+			global::MODEL.Resource.String.abc_searchview_description_clear = global::HangedMan.Resource.String.abc_searchview_description_clear;
+			global::MODEL.Resource.String.abc_searchview_description_query = global::HangedMan.Resource.String.abc_searchview_description_query;
+			global::MODEL.Resource.String.abc_searchview_description_search = global::HangedMan.Resource.String.abc_searchview_description_search;
+			global::MODEL.Resource.String.abc_searchview_description_submit = global::HangedMan.Resource.String.abc_searchview_description_submit;
+			global::MODEL.Resource.String.abc_searchview_description_voice = global::HangedMan.Resource.String.abc_searchview_description_voice;
+			global::MODEL.Resource.String.abc_search_hint = global::HangedMan.Resource.String.abc_search_hint;
+			global::MODEL.Resource.String.abc_shareactionprovider_share_with = global::HangedMan.Resource.String.abc_shareactionprovider_share_with;
+			global::MODEL.Resource.String.abc_shareactionprovider_share_with_application = global::HangedMan.Resource.String.abc_shareactionprovider_share_with_application;
+			global::MODEL.Resource.String.abc_toolbar_collapse_description = global::HangedMan.Resource.String.abc_toolbar_collapse_description;
+			global::MODEL.Resource.String.app_name = global::HangedMan.Resource.String.app_name;
+			global::MODEL.Resource.String.hello = global::HangedMan.Resource.String.hello;
+			global::MODEL.Resource.String.search_menu_title = global::HangedMan.Resource.String.search_menu_title;
+			global::MODEL.Resource.String.status_bar_notification_info_overflow = global::HangedMan.Resource.String.status_bar_notification_info_overflow;
+			global::MODEL.Resource.Style.AlertDialog_AppCompat = global::HangedMan.Resource.Style.AlertDialog_AppCompat;
+			global::MODEL.Resource.Style.AlertDialog_AppCompat_Light = global::HangedMan.Resource.Style.AlertDialog_AppCompat_Light;
+			global::MODEL.Resource.Style.Animation_AppCompat_Dialog = global::HangedMan.Resource.Style.Animation_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Animation_AppCompat_DropDownUp = global::HangedMan.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::MODEL.Resource.Style.Animation_AppCompat_Tooltip = global::HangedMan.Resource.Style.Animation_AppCompat_Tooltip;
+			global::MODEL.Resource.Style.Base_AlertDialog_AppCompat = global::HangedMan.Resource.Style.Base_AlertDialog_AppCompat;
+			global::MODEL.Resource.Style.Base_AlertDialog_AppCompat_Light = global::HangedMan.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_Animation_AppCompat_Dialog = global::HangedMan.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::HangedMan.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::MODEL.Resource.Style.Base_Animation_AppCompat_Tooltip = global::HangedMan.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::MODEL.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::HangedMan.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::MODEL.Resource.Style.Base_DialogWindowTitle_AppCompat = global::HangedMan.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Button = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Large = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Small = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Title = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::HangedMan.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::MODEL.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::HangedMan.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::MODEL.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::HangedMan.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::MODEL.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::HangedMan.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat = global::HangedMan.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::HangedMan.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::HangedMan.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::HangedMan.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::HangedMan.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::HangedMan.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::HangedMan.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat = global::HangedMan.Resource.Style.Base_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::HangedMan.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Dialog = global::HangedMan.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::HangedMan.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::HangedMan.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::HangedMan.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::HangedMan.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light = global::HangedMan.Resource.Style.Base_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::HangedMan.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::HangedMan.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::HangedMan.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::HangedMan.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::HangedMan.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::HangedMan.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::MODEL.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::HangedMan.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_V21_Theme_AppCompat = global::HangedMan.Resource.Style.Base_V21_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::HangedMan.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_V21_Theme_AppCompat_Light = global::HangedMan.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::HangedMan.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::MODEL.Resource.Style.Base_V22_Theme_AppCompat = global::HangedMan.Resource.Style.Base_V22_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V22_Theme_AppCompat_Light = global::HangedMan.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V23_Theme_AppCompat = global::HangedMan.Resource.Style.Base_V23_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V23_Theme_AppCompat_Light = global::HangedMan.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V26_Theme_AppCompat = global::HangedMan.Resource.Style.Base_V26_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V26_Theme_AppCompat_Light = global::HangedMan.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::HangedMan.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::MODEL.Resource.Style.Base_V28_Theme_AppCompat = global::HangedMan.Resource.Style.Base_V28_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V28_Theme_AppCompat_Light = global::HangedMan.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::HangedMan.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_V7_Theme_AppCompat = global::HangedMan.Resource.Style.Base_V7_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::HangedMan.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_V7_Theme_AppCompat_Light = global::HangedMan.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::HangedMan.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::MODEL.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::HangedMan.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::MODEL.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::HangedMan.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::MODEL.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::HangedMan.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionBar = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionButton = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionMode = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::HangedMan.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Button;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button_Small = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::HangedMan.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::HangedMan.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::HangedMan.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::HangedMan.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::HangedMan.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::HangedMan.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_EditText = global::HangedMan.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ImageButton = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ListView = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::HangedMan.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::HangedMan.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::HangedMan.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::HangedMan.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_RatingBar = global::HangedMan.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::HangedMan.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::HangedMan.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_SearchView = global::HangedMan.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::HangedMan.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_SeekBar = global::HangedMan.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::HangedMan.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Spinner = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_TextView = global::HangedMan.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::HangedMan.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Toolbar = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::HangedMan.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::MODEL.Resource.Style.Platform_AppCompat = global::HangedMan.Resource.Style.Platform_AppCompat;
+			global::MODEL.Resource.Style.Platform_AppCompat_Light = global::HangedMan.Resource.Style.Platform_AppCompat_Light;
+			global::MODEL.Resource.Style.Platform_ThemeOverlay_AppCompat = global::HangedMan.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::MODEL.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::HangedMan.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::MODEL.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::HangedMan.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::MODEL.Resource.Style.Platform_V21_AppCompat = global::HangedMan.Resource.Style.Platform_V21_AppCompat;
+			global::MODEL.Resource.Style.Platform_V21_AppCompat_Light = global::HangedMan.Resource.Style.Platform_V21_AppCompat_Light;
+			global::MODEL.Resource.Style.Platform_V25_AppCompat = global::HangedMan.Resource.Style.Platform_V25_AppCompat;
+			global::MODEL.Resource.Style.Platform_V25_AppCompat_Light = global::HangedMan.Resource.Style.Platform_V25_AppCompat_Light;
+			global::MODEL.Resource.Style.Platform_Widget_AppCompat_Spinner = global::HangedMan.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::MODEL.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::HangedMan.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::HangedMan.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::MODEL.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::HangedMan.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::MODEL.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::HangedMan.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat = global::HangedMan.Resource.Style.TextAppearance_AppCompat;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Body1 = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Body2 = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Button = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Button;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Caption = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Display1 = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Display2 = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Display3 = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Display4 = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Headline = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Inverse = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Large = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Large;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Medium = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Menu = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::HangedMan.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::HangedMan.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Small = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Small;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Subhead = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Title = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Title;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Tooltip = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::HangedMan.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::MODEL.Resource.Style.TextAppearance_Compat_Notification = global::HangedMan.Resource.Style.TextAppearance_Compat_Notification;
+			global::MODEL.Resource.Style.TextAppearance_Compat_Notification_Info = global::HangedMan.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::MODEL.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::HangedMan.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::MODEL.Resource.Style.TextAppearance_Compat_Notification_Time = global::HangedMan.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::MODEL.Resource.Style.TextAppearance_Compat_Notification_Title = global::HangedMan.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::MODEL.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::HangedMan.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::MODEL.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::HangedMan.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::MODEL.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::HangedMan.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat = global::HangedMan.Resource.Style.ThemeOverlay_AppCompat;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::HangedMan.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_Dark = global::HangedMan.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::HangedMan.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::HangedMan.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::HangedMan.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::HangedMan.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::HangedMan.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_Light = global::HangedMan.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::MODEL.Resource.Style.Theme_AppCompat = global::HangedMan.Resource.Style.Theme_AppCompat;
+			global::MODEL.Resource.Style.Theme_AppCompat_CompactMenu = global::HangedMan.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight = global::HangedMan.Resource.Style.Theme_AppCompat_DayNight;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::HangedMan.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::HangedMan.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::HangedMan.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::HangedMan.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::HangedMan.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::HangedMan.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::MODEL.Resource.Style.Theme_AppCompat_Dialog = global::HangedMan.Resource.Style.Theme_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::HangedMan.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::MODEL.Resource.Style.Theme_AppCompat_Dialog_Alert = global::HangedMan.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::MODEL.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::HangedMan.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::MODEL.Resource.Style.Theme_AppCompat_Empty = global::HangedMan.Resource.Style.Theme_AppCompat_Empty;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light = global::HangedMan.Resource.Style.Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::HangedMan.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_Dialog = global::HangedMan.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::HangedMan.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::HangedMan.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::HangedMan.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::HangedMan.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::MODEL.Resource.Style.Theme_AppCompat_NoActionBar = global::HangedMan.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionBar = global::HangedMan.Resource.Style.Widget_AppCompat_ActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::HangedMan.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::HangedMan.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::HangedMan.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::HangedMan.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionButton = global::HangedMan.Resource.Style.Widget_AppCompat_ActionButton;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::HangedMan.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::HangedMan.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionMode = global::HangedMan.Resource.Style.Widget_AppCompat_ActionMode;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActivityChooserView = global::HangedMan.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::MODEL.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::HangedMan.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button = global::HangedMan.Resource.Style.Widget_AppCompat_Button;
+			global::MODEL.Resource.Style.Widget_AppCompat_ButtonBar = global::HangedMan.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::HangedMan.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button_Borderless = global::HangedMan.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::HangedMan.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::HangedMan.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button_Colored = global::HangedMan.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button_Small = global::HangedMan.Resource.Style.Widget_AppCompat_Button_Small;
+			global::MODEL.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::HangedMan.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::MODEL.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::HangedMan.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::MODEL.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::HangedMan.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::MODEL.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::HangedMan.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::MODEL.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::HangedMan.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::MODEL.Resource.Style.Widget_AppCompat_EditText = global::HangedMan.Resource.Style.Widget_AppCompat_EditText;
+			global::MODEL.Resource.Style.Widget_AppCompat_ImageButton = global::HangedMan.Resource.Style.Widget_AppCompat_ImageButton;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionButton = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::HangedMan.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::HangedMan.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::HangedMan.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::HangedMan.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::HangedMan.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_SearchView = global::HangedMan.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::HangedMan.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ListMenuView = global::HangedMan.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::MODEL.Resource.Style.Widget_AppCompat_ListPopupWindow = global::HangedMan.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::MODEL.Resource.Style.Widget_AppCompat_ListView = global::HangedMan.Resource.Style.Widget_AppCompat_ListView;
+			global::MODEL.Resource.Style.Widget_AppCompat_ListView_DropDown = global::HangedMan.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::MODEL.Resource.Style.Widget_AppCompat_ListView_Menu = global::HangedMan.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::MODEL.Resource.Style.Widget_AppCompat_PopupMenu = global::HangedMan.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::MODEL.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::HangedMan.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::MODEL.Resource.Style.Widget_AppCompat_PopupWindow = global::HangedMan.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::MODEL.Resource.Style.Widget_AppCompat_ProgressBar = global::HangedMan.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::HangedMan.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::MODEL.Resource.Style.Widget_AppCompat_RatingBar = global::HangedMan.Resource.Style.Widget_AppCompat_RatingBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::HangedMan.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::MODEL.Resource.Style.Widget_AppCompat_RatingBar_Small = global::HangedMan.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::MODEL.Resource.Style.Widget_AppCompat_SearchView = global::HangedMan.Resource.Style.Widget_AppCompat_SearchView;
+			global::MODEL.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::HangedMan.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_SeekBar = global::HangedMan.Resource.Style.Widget_AppCompat_SeekBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::HangedMan.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::MODEL.Resource.Style.Widget_AppCompat_Spinner = global::HangedMan.Resource.Style.Widget_AppCompat_Spinner;
+			global::MODEL.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::HangedMan.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::MODEL.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::HangedMan.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::HangedMan.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::MODEL.Resource.Style.Widget_AppCompat_TextView = global::HangedMan.Resource.Style.Widget_AppCompat_TextView;
+			global::MODEL.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::HangedMan.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::MODEL.Resource.Style.Widget_AppCompat_Toolbar = global::HangedMan.Resource.Style.Widget_AppCompat_Toolbar;
+			global::MODEL.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::HangedMan.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::MODEL.Resource.Style.Widget_Compat_NotificationActionContainer = global::HangedMan.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::MODEL.Resource.Style.Widget_Compat_NotificationActionText = global::HangedMan.Resource.Style.Widget_Compat_NotificationActionText;
+			global::MODEL.Resource.Styleable.ActionBar = global::HangedMan.Resource.Styleable.ActionBar;
+			global::MODEL.Resource.Styleable.ActionBarLayout = global::HangedMan.Resource.Styleable.ActionBarLayout;
+			global::MODEL.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::HangedMan.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::MODEL.Resource.Styleable.ActionBar_background = global::HangedMan.Resource.Styleable.ActionBar_background;
+			global::MODEL.Resource.Styleable.ActionBar_backgroundSplit = global::HangedMan.Resource.Styleable.ActionBar_backgroundSplit;
+			global::MODEL.Resource.Styleable.ActionBar_backgroundStacked = global::HangedMan.Resource.Styleable.ActionBar_backgroundStacked;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetEnd = global::HangedMan.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::HangedMan.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetLeft = global::HangedMan.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetRight = global::HangedMan.Resource.Styleable.ActionBar_contentInsetRight;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetStart = global::HangedMan.Resource.Styleable.ActionBar_contentInsetStart;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::HangedMan.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::MODEL.Resource.Styleable.ActionBar_customNavigationLayout = global::HangedMan.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::MODEL.Resource.Styleable.ActionBar_displayOptions = global::HangedMan.Resource.Styleable.ActionBar_displayOptions;
+			global::MODEL.Resource.Styleable.ActionBar_divider = global::HangedMan.Resource.Styleable.ActionBar_divider;
+			global::MODEL.Resource.Styleable.ActionBar_elevation = global::HangedMan.Resource.Styleable.ActionBar_elevation;
+			global::MODEL.Resource.Styleable.ActionBar_height = global::HangedMan.Resource.Styleable.ActionBar_height;
+			global::MODEL.Resource.Styleable.ActionBar_hideOnContentScroll = global::HangedMan.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::MODEL.Resource.Styleable.ActionBar_homeAsUpIndicator = global::HangedMan.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::MODEL.Resource.Styleable.ActionBar_homeLayout = global::HangedMan.Resource.Styleable.ActionBar_homeLayout;
+			global::MODEL.Resource.Styleable.ActionBar_icon = global::HangedMan.Resource.Styleable.ActionBar_icon;
+			global::MODEL.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::HangedMan.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::MODEL.Resource.Styleable.ActionBar_itemPadding = global::HangedMan.Resource.Styleable.ActionBar_itemPadding;
+			global::MODEL.Resource.Styleable.ActionBar_logo = global::HangedMan.Resource.Styleable.ActionBar_logo;
+			global::MODEL.Resource.Styleable.ActionBar_navigationMode = global::HangedMan.Resource.Styleable.ActionBar_navigationMode;
+			global::MODEL.Resource.Styleable.ActionBar_popupTheme = global::HangedMan.Resource.Styleable.ActionBar_popupTheme;
+			global::MODEL.Resource.Styleable.ActionBar_progressBarPadding = global::HangedMan.Resource.Styleable.ActionBar_progressBarPadding;
+			global::MODEL.Resource.Styleable.ActionBar_progressBarStyle = global::HangedMan.Resource.Styleable.ActionBar_progressBarStyle;
+			global::MODEL.Resource.Styleable.ActionBar_subtitle = global::HangedMan.Resource.Styleable.ActionBar_subtitle;
+			global::MODEL.Resource.Styleable.ActionBar_subtitleTextStyle = global::HangedMan.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::MODEL.Resource.Styleable.ActionBar_title = global::HangedMan.Resource.Styleable.ActionBar_title;
+			global::MODEL.Resource.Styleable.ActionBar_titleTextStyle = global::HangedMan.Resource.Styleable.ActionBar_titleTextStyle;
+			global::MODEL.Resource.Styleable.ActionMenuItemView = global::HangedMan.Resource.Styleable.ActionMenuItemView;
+			global::MODEL.Resource.Styleable.ActionMenuItemView_android_minWidth = global::HangedMan.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::MODEL.Resource.Styleable.ActionMenuView = global::HangedMan.Resource.Styleable.ActionMenuView;
+			global::MODEL.Resource.Styleable.ActionMode = global::HangedMan.Resource.Styleable.ActionMode;
+			global::MODEL.Resource.Styleable.ActionMode_background = global::HangedMan.Resource.Styleable.ActionMode_background;
+			global::MODEL.Resource.Styleable.ActionMode_backgroundSplit = global::HangedMan.Resource.Styleable.ActionMode_backgroundSplit;
+			global::MODEL.Resource.Styleable.ActionMode_closeItemLayout = global::HangedMan.Resource.Styleable.ActionMode_closeItemLayout;
+			global::MODEL.Resource.Styleable.ActionMode_height = global::HangedMan.Resource.Styleable.ActionMode_height;
+			global::MODEL.Resource.Styleable.ActionMode_subtitleTextStyle = global::HangedMan.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::MODEL.Resource.Styleable.ActionMode_titleTextStyle = global::HangedMan.Resource.Styleable.ActionMode_titleTextStyle;
+			global::MODEL.Resource.Styleable.ActivityChooserView = global::HangedMan.Resource.Styleable.ActivityChooserView;
+			global::MODEL.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::HangedMan.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::MODEL.Resource.Styleable.ActivityChooserView_initialActivityCount = global::HangedMan.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::MODEL.Resource.Styleable.AlertDialog = global::HangedMan.Resource.Styleable.AlertDialog;
+			global::MODEL.Resource.Styleable.AlertDialog_android_layout = global::HangedMan.Resource.Styleable.AlertDialog_android_layout;
+			global::MODEL.Resource.Styleable.AlertDialog_buttonIconDimen = global::HangedMan.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::MODEL.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::HangedMan.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::MODEL.Resource.Styleable.AlertDialog_listItemLayout = global::HangedMan.Resource.Styleable.AlertDialog_listItemLayout;
+			global::MODEL.Resource.Styleable.AlertDialog_listLayout = global::HangedMan.Resource.Styleable.AlertDialog_listLayout;
+			global::MODEL.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::HangedMan.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::MODEL.Resource.Styleable.AlertDialog_showTitle = global::HangedMan.Resource.Styleable.AlertDialog_showTitle;
+			global::MODEL.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::HangedMan.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableItem = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableTransition = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::HangedMan.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::MODEL.Resource.Styleable.AppCompatImageView = global::HangedMan.Resource.Styleable.AppCompatImageView;
+			global::MODEL.Resource.Styleable.AppCompatImageView_android_src = global::HangedMan.Resource.Styleable.AppCompatImageView_android_src;
+			global::MODEL.Resource.Styleable.AppCompatImageView_srcCompat = global::HangedMan.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::MODEL.Resource.Styleable.AppCompatImageView_tint = global::HangedMan.Resource.Styleable.AppCompatImageView_tint;
+			global::MODEL.Resource.Styleable.AppCompatImageView_tintMode = global::HangedMan.Resource.Styleable.AppCompatImageView_tintMode;
+			global::MODEL.Resource.Styleable.AppCompatSeekBar = global::HangedMan.Resource.Styleable.AppCompatSeekBar;
+			global::MODEL.Resource.Styleable.AppCompatSeekBar_android_thumb = global::HangedMan.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::MODEL.Resource.Styleable.AppCompatSeekBar_tickMark = global::HangedMan.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::MODEL.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::HangedMan.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::MODEL.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::HangedMan.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper = global::HangedMan.Resource.Styleable.AppCompatTextHelper;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::HangedMan.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::HangedMan.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::HangedMan.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::HangedMan.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::HangedMan.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::HangedMan.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::HangedMan.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::MODEL.Resource.Styleable.AppCompatTextView = global::HangedMan.Resource.Styleable.AppCompatTextView;
+			global::MODEL.Resource.Styleable.AppCompatTextView_android_textAppearance = global::HangedMan.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::MODEL.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::HangedMan.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::MODEL.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::HangedMan.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::MODEL.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::HangedMan.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::MODEL.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::HangedMan.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::MODEL.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::HangedMan.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::HangedMan.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::HangedMan.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::HangedMan.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::HangedMan.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::HangedMan.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableTint = global::HangedMan.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableTintMode = global::HangedMan.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::HangedMan.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::HangedMan.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::MODEL.Resource.Styleable.AppCompatTextView_fontFamily = global::HangedMan.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::MODEL.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::HangedMan.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::MODEL.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::HangedMan.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::MODEL.Resource.Styleable.AppCompatTextView_lineHeight = global::HangedMan.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::MODEL.Resource.Styleable.AppCompatTextView_textAllCaps = global::HangedMan.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::MODEL.Resource.Styleable.AppCompatTextView_textLocale = global::HangedMan.Resource.Styleable.AppCompatTextView_textLocale;
+			global::MODEL.Resource.Styleable.AppCompatTheme = global::HangedMan.Resource.Styleable.AppCompatTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarDivider = global::HangedMan.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::HangedMan.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::HangedMan.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarSize = global::HangedMan.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarTheme = global::HangedMan.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::HangedMan.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::HangedMan.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::HangedMan.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeBackground = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::HangedMan.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::HangedMan.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::MODEL.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::HangedMan.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::HangedMan.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::MODEL.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::HangedMan.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::MODEL.Resource.Styleable.AppCompatTheme_checkboxStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorAccent = global::HangedMan.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::HangedMan.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::HangedMan.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorControlActivated = global::HangedMan.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::HangedMan.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorControlNormal = global::HangedMan.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorError = global::HangedMan.Resource.Styleable.AppCompatTheme_colorError;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorPrimary = global::HangedMan.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::HangedMan.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::HangedMan.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::MODEL.Resource.Styleable.AppCompatTheme_controlBackground = global::HangedMan.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::HangedMan.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::HangedMan.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dialogTheme = global::HangedMan.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::HangedMan.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dividerVertical = global::HangedMan.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::HangedMan.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_editTextBackground = global::HangedMan.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_editTextColor = global::HangedMan.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_editTextStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::HangedMan.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::MODEL.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::HangedMan.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::HangedMan.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::HangedMan.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::HangedMan.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::HangedMan.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::HangedMan.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::HangedMan.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::HangedMan.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::HangedMan.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::HangedMan.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::HangedMan.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::MODEL.Resource.Styleable.AppCompatTheme_panelBackground = global::HangedMan.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::HangedMan.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::HangedMan.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::MODEL.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::HangedMan.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::MODEL.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::HangedMan.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::MODEL.Resource.Styleable.AppCompatTheme_searchViewStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_seekBarStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::HangedMan.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::HangedMan.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::MODEL.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_spinnerStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_switchStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::HangedMan.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::HangedMan.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::HangedMan.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::HangedMan.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::HangedMan.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::HangedMan.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::HangedMan.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::HangedMan.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::HangedMan.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::HangedMan.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::MODEL.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_toolbarStyle = global::HangedMan.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::HangedMan.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::HangedMan.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::HangedMan.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowActionBar = global::HangedMan.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::HangedMan.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::HangedMan.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::HangedMan.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::HangedMan.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::HangedMan.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::HangedMan.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::HangedMan.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::HangedMan.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowNoTitle = global::HangedMan.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::MODEL.Resource.Styleable.ButtonBarLayout = global::HangedMan.Resource.Styleable.ButtonBarLayout;
+			global::MODEL.Resource.Styleable.ButtonBarLayout_allowStacking = global::HangedMan.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::MODEL.Resource.Styleable.ColorStateListItem = global::HangedMan.Resource.Styleable.ColorStateListItem;
+			global::MODEL.Resource.Styleable.ColorStateListItem_alpha = global::HangedMan.Resource.Styleable.ColorStateListItem_alpha;
+			global::MODEL.Resource.Styleable.ColorStateListItem_android_alpha = global::HangedMan.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::MODEL.Resource.Styleable.ColorStateListItem_android_color = global::HangedMan.Resource.Styleable.ColorStateListItem_android_color;
+			global::MODEL.Resource.Styleable.CompoundButton = global::HangedMan.Resource.Styleable.CompoundButton;
+			global::MODEL.Resource.Styleable.CompoundButton_android_button = global::HangedMan.Resource.Styleable.CompoundButton_android_button;
+			global::MODEL.Resource.Styleable.CompoundButton_buttonCompat = global::HangedMan.Resource.Styleable.CompoundButton_buttonCompat;
+			global::MODEL.Resource.Styleable.CompoundButton_buttonTint = global::HangedMan.Resource.Styleable.CompoundButton_buttonTint;
+			global::MODEL.Resource.Styleable.CompoundButton_buttonTintMode = global::HangedMan.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle = global::HangedMan.Resource.Styleable.DrawerArrowToggle;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::HangedMan.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::HangedMan.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_barLength = global::HangedMan.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_color = global::HangedMan.Resource.Styleable.DrawerArrowToggle_color;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_drawableSize = global::HangedMan.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::HangedMan.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_spinBars = global::HangedMan.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_thickness = global::HangedMan.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::MODEL.Resource.Styleable.DrawerLayout = global::HangedMan.Resource.Styleable.DrawerLayout;
+			global::MODEL.Resource.Styleable.DrawerLayout_elevation = global::HangedMan.Resource.Styleable.DrawerLayout_elevation;
+			global::MODEL.Resource.Styleable.FontFamily = global::HangedMan.Resource.Styleable.FontFamily;
+			global::MODEL.Resource.Styleable.FontFamilyFont = global::HangedMan.Resource.Styleable.FontFamilyFont;
+			global::MODEL.Resource.Styleable.FontFamilyFont_android_font = global::HangedMan.Resource.Styleable.FontFamilyFont_android_font;
+			global::MODEL.Resource.Styleable.FontFamilyFont_android_fontStyle = global::HangedMan.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::MODEL.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::HangedMan.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::MODEL.Resource.Styleable.FontFamilyFont_android_fontWeight = global::HangedMan.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::MODEL.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::HangedMan.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::MODEL.Resource.Styleable.FontFamilyFont_font = global::HangedMan.Resource.Styleable.FontFamilyFont_font;
+			global::MODEL.Resource.Styleable.FontFamilyFont_fontStyle = global::HangedMan.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::MODEL.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::HangedMan.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::MODEL.Resource.Styleable.FontFamilyFont_fontWeight = global::HangedMan.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::MODEL.Resource.Styleable.FontFamilyFont_ttcIndex = global::HangedMan.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderAuthority = global::HangedMan.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderCerts = global::HangedMan.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::HangedMan.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::HangedMan.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderPackage = global::HangedMan.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderQuery = global::HangedMan.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::MODEL.Resource.Styleable.Fragment = global::HangedMan.Resource.Styleable.Fragment;
+			global::MODEL.Resource.Styleable.FragmentContainerView = global::HangedMan.Resource.Styleable.FragmentContainerView;
+			global::MODEL.Resource.Styleable.FragmentContainerView_android_name = global::HangedMan.Resource.Styleable.FragmentContainerView_android_name;
+			global::MODEL.Resource.Styleable.FragmentContainerView_android_tag = global::HangedMan.Resource.Styleable.FragmentContainerView_android_tag;
+			global::MODEL.Resource.Styleable.Fragment_android_id = global::HangedMan.Resource.Styleable.Fragment_android_id;
+			global::MODEL.Resource.Styleable.Fragment_android_name = global::HangedMan.Resource.Styleable.Fragment_android_name;
+			global::MODEL.Resource.Styleable.Fragment_android_tag = global::HangedMan.Resource.Styleable.Fragment_android_tag;
+			global::MODEL.Resource.Styleable.GradientColor = global::HangedMan.Resource.Styleable.GradientColor;
+			global::MODEL.Resource.Styleable.GradientColorItem = global::HangedMan.Resource.Styleable.GradientColorItem;
+			global::MODEL.Resource.Styleable.GradientColorItem_android_color = global::HangedMan.Resource.Styleable.GradientColorItem_android_color;
+			global::MODEL.Resource.Styleable.GradientColorItem_android_offset = global::HangedMan.Resource.Styleable.GradientColorItem_android_offset;
+			global::MODEL.Resource.Styleable.GradientColor_android_centerColor = global::HangedMan.Resource.Styleable.GradientColor_android_centerColor;
+			global::MODEL.Resource.Styleable.GradientColor_android_centerX = global::HangedMan.Resource.Styleable.GradientColor_android_centerX;
+			global::MODEL.Resource.Styleable.GradientColor_android_centerY = global::HangedMan.Resource.Styleable.GradientColor_android_centerY;
+			global::MODEL.Resource.Styleable.GradientColor_android_endColor = global::HangedMan.Resource.Styleable.GradientColor_android_endColor;
+			global::MODEL.Resource.Styleable.GradientColor_android_endX = global::HangedMan.Resource.Styleable.GradientColor_android_endX;
+			global::MODEL.Resource.Styleable.GradientColor_android_endY = global::HangedMan.Resource.Styleable.GradientColor_android_endY;
+			global::MODEL.Resource.Styleable.GradientColor_android_gradientRadius = global::HangedMan.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::MODEL.Resource.Styleable.GradientColor_android_startColor = global::HangedMan.Resource.Styleable.GradientColor_android_startColor;
+			global::MODEL.Resource.Styleable.GradientColor_android_startX = global::HangedMan.Resource.Styleable.GradientColor_android_startX;
+			global::MODEL.Resource.Styleable.GradientColor_android_startY = global::HangedMan.Resource.Styleable.GradientColor_android_startY;
+			global::MODEL.Resource.Styleable.GradientColor_android_tileMode = global::HangedMan.Resource.Styleable.GradientColor_android_tileMode;
+			global::MODEL.Resource.Styleable.GradientColor_android_type = global::HangedMan.Resource.Styleable.GradientColor_android_type;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat = global::HangedMan.Resource.Styleable.LinearLayoutCompat;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::HangedMan.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::HangedMan.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_android_gravity = global::HangedMan.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_android_orientation = global::HangedMan.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::HangedMan.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_divider = global::HangedMan.Resource.Styleable.LinearLayoutCompat_divider;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::HangedMan.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_Layout = global::HangedMan.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::HangedMan.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::HangedMan.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::HangedMan.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::HangedMan.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::HangedMan.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_showDividers = global::HangedMan.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::MODEL.Resource.Styleable.ListPopupWindow = global::HangedMan.Resource.Styleable.ListPopupWindow;
+			global::MODEL.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::HangedMan.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::MODEL.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::HangedMan.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::MODEL.Resource.Styleable.MenuGroup = global::HangedMan.Resource.Styleable.MenuGroup;
+			global::MODEL.Resource.Styleable.MenuGroup_android_checkableBehavior = global::HangedMan.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::MODEL.Resource.Styleable.MenuGroup_android_enabled = global::HangedMan.Resource.Styleable.MenuGroup_android_enabled;
+			global::MODEL.Resource.Styleable.MenuGroup_android_id = global::HangedMan.Resource.Styleable.MenuGroup_android_id;
+			global::MODEL.Resource.Styleable.MenuGroup_android_menuCategory = global::HangedMan.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::MODEL.Resource.Styleable.MenuGroup_android_orderInCategory = global::HangedMan.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::MODEL.Resource.Styleable.MenuGroup_android_visible = global::HangedMan.Resource.Styleable.MenuGroup_android_visible;
+			global::MODEL.Resource.Styleable.MenuItem = global::HangedMan.Resource.Styleable.MenuItem;
+			global::MODEL.Resource.Styleable.MenuItem_actionLayout = global::HangedMan.Resource.Styleable.MenuItem_actionLayout;
+			global::MODEL.Resource.Styleable.MenuItem_actionProviderClass = global::HangedMan.Resource.Styleable.MenuItem_actionProviderClass;
+			global::MODEL.Resource.Styleable.MenuItem_actionViewClass = global::HangedMan.Resource.Styleable.MenuItem_actionViewClass;
+			global::MODEL.Resource.Styleable.MenuItem_alphabeticModifiers = global::HangedMan.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::MODEL.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::HangedMan.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::MODEL.Resource.Styleable.MenuItem_android_checkable = global::HangedMan.Resource.Styleable.MenuItem_android_checkable;
+			global::MODEL.Resource.Styleable.MenuItem_android_checked = global::HangedMan.Resource.Styleable.MenuItem_android_checked;
+			global::MODEL.Resource.Styleable.MenuItem_android_enabled = global::HangedMan.Resource.Styleable.MenuItem_android_enabled;
+			global::MODEL.Resource.Styleable.MenuItem_android_icon = global::HangedMan.Resource.Styleable.MenuItem_android_icon;
+			global::MODEL.Resource.Styleable.MenuItem_android_id = global::HangedMan.Resource.Styleable.MenuItem_android_id;
+			global::MODEL.Resource.Styleable.MenuItem_android_menuCategory = global::HangedMan.Resource.Styleable.MenuItem_android_menuCategory;
+			global::MODEL.Resource.Styleable.MenuItem_android_numericShortcut = global::HangedMan.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::MODEL.Resource.Styleable.MenuItem_android_onClick = global::HangedMan.Resource.Styleable.MenuItem_android_onClick;
+			global::MODEL.Resource.Styleable.MenuItem_android_orderInCategory = global::HangedMan.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::MODEL.Resource.Styleable.MenuItem_android_title = global::HangedMan.Resource.Styleable.MenuItem_android_title;
+			global::MODEL.Resource.Styleable.MenuItem_android_titleCondensed = global::HangedMan.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::MODEL.Resource.Styleable.MenuItem_android_visible = global::HangedMan.Resource.Styleable.MenuItem_android_visible;
+			global::MODEL.Resource.Styleable.MenuItem_contentDescription = global::HangedMan.Resource.Styleable.MenuItem_contentDescription;
+			global::MODEL.Resource.Styleable.MenuItem_iconTint = global::HangedMan.Resource.Styleable.MenuItem_iconTint;
+			global::MODEL.Resource.Styleable.MenuItem_iconTintMode = global::HangedMan.Resource.Styleable.MenuItem_iconTintMode;
+			global::MODEL.Resource.Styleable.MenuItem_numericModifiers = global::HangedMan.Resource.Styleable.MenuItem_numericModifiers;
+			global::MODEL.Resource.Styleable.MenuItem_showAsAction = global::HangedMan.Resource.Styleable.MenuItem_showAsAction;
+			global::MODEL.Resource.Styleable.MenuItem_tooltipText = global::HangedMan.Resource.Styleable.MenuItem_tooltipText;
+			global::MODEL.Resource.Styleable.MenuView = global::HangedMan.Resource.Styleable.MenuView;
+			global::MODEL.Resource.Styleable.MenuView_android_headerBackground = global::HangedMan.Resource.Styleable.MenuView_android_headerBackground;
+			global::MODEL.Resource.Styleable.MenuView_android_horizontalDivider = global::HangedMan.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::MODEL.Resource.Styleable.MenuView_android_itemBackground = global::HangedMan.Resource.Styleable.MenuView_android_itemBackground;
+			global::MODEL.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::HangedMan.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::MODEL.Resource.Styleable.MenuView_android_itemTextAppearance = global::HangedMan.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::MODEL.Resource.Styleable.MenuView_android_verticalDivider = global::HangedMan.Resource.Styleable.MenuView_android_verticalDivider;
+			global::MODEL.Resource.Styleable.MenuView_android_windowAnimationStyle = global::HangedMan.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::MODEL.Resource.Styleable.MenuView_preserveIconSpacing = global::HangedMan.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::MODEL.Resource.Styleable.MenuView_subMenuArrow = global::HangedMan.Resource.Styleable.MenuView_subMenuArrow;
+			global::MODEL.Resource.Styleable.PopupWindow = global::HangedMan.Resource.Styleable.PopupWindow;
+			global::MODEL.Resource.Styleable.PopupWindowBackgroundState = global::HangedMan.Resource.Styleable.PopupWindowBackgroundState;
+			global::MODEL.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::HangedMan.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::MODEL.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::HangedMan.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::MODEL.Resource.Styleable.PopupWindow_android_popupBackground = global::HangedMan.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::MODEL.Resource.Styleable.PopupWindow_overlapAnchor = global::HangedMan.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::MODEL.Resource.Styleable.RecycleListView = global::HangedMan.Resource.Styleable.RecycleListView;
+			global::MODEL.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::HangedMan.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::MODEL.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::HangedMan.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::MODEL.Resource.Styleable.SearchView = global::HangedMan.Resource.Styleable.SearchView;
+			global::MODEL.Resource.Styleable.SearchView_android_focusable = global::HangedMan.Resource.Styleable.SearchView_android_focusable;
+			global::MODEL.Resource.Styleable.SearchView_android_imeOptions = global::HangedMan.Resource.Styleable.SearchView_android_imeOptions;
+			global::MODEL.Resource.Styleable.SearchView_android_inputType = global::HangedMan.Resource.Styleable.SearchView_android_inputType;
+			global::MODEL.Resource.Styleable.SearchView_android_maxWidth = global::HangedMan.Resource.Styleable.SearchView_android_maxWidth;
+			global::MODEL.Resource.Styleable.SearchView_closeIcon = global::HangedMan.Resource.Styleable.SearchView_closeIcon;
+			global::MODEL.Resource.Styleable.SearchView_commitIcon = global::HangedMan.Resource.Styleable.SearchView_commitIcon;
+			global::MODEL.Resource.Styleable.SearchView_defaultQueryHint = global::HangedMan.Resource.Styleable.SearchView_defaultQueryHint;
+			global::MODEL.Resource.Styleable.SearchView_goIcon = global::HangedMan.Resource.Styleable.SearchView_goIcon;
+			global::MODEL.Resource.Styleable.SearchView_iconifiedByDefault = global::HangedMan.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::MODEL.Resource.Styleable.SearchView_layout = global::HangedMan.Resource.Styleable.SearchView_layout;
+			global::MODEL.Resource.Styleable.SearchView_queryBackground = global::HangedMan.Resource.Styleable.SearchView_queryBackground;
+			global::MODEL.Resource.Styleable.SearchView_queryHint = global::HangedMan.Resource.Styleable.SearchView_queryHint;
+			global::MODEL.Resource.Styleable.SearchView_searchHintIcon = global::HangedMan.Resource.Styleable.SearchView_searchHintIcon;
+			global::MODEL.Resource.Styleable.SearchView_searchIcon = global::HangedMan.Resource.Styleable.SearchView_searchIcon;
+			global::MODEL.Resource.Styleable.SearchView_submitBackground = global::HangedMan.Resource.Styleable.SearchView_submitBackground;
+			global::MODEL.Resource.Styleable.SearchView_suggestionRowLayout = global::HangedMan.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::MODEL.Resource.Styleable.SearchView_voiceIcon = global::HangedMan.Resource.Styleable.SearchView_voiceIcon;
+			global::MODEL.Resource.Styleable.Spinner = global::HangedMan.Resource.Styleable.Spinner;
+			global::MODEL.Resource.Styleable.Spinner_android_dropDownWidth = global::HangedMan.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::MODEL.Resource.Styleable.Spinner_android_entries = global::HangedMan.Resource.Styleable.Spinner_android_entries;
+			global::MODEL.Resource.Styleable.Spinner_android_popupBackground = global::HangedMan.Resource.Styleable.Spinner_android_popupBackground;
+			global::MODEL.Resource.Styleable.Spinner_android_prompt = global::HangedMan.Resource.Styleable.Spinner_android_prompt;
+			global::MODEL.Resource.Styleable.Spinner_popupTheme = global::HangedMan.Resource.Styleable.Spinner_popupTheme;
+			global::MODEL.Resource.Styleable.StateListDrawable = global::HangedMan.Resource.Styleable.StateListDrawable;
+			global::MODEL.Resource.Styleable.StateListDrawableItem = global::HangedMan.Resource.Styleable.StateListDrawableItem;
+			global::MODEL.Resource.Styleable.StateListDrawableItem_android_drawable = global::HangedMan.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_constantSize = global::HangedMan.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_dither = global::HangedMan.Resource.Styleable.StateListDrawable_android_dither;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::HangedMan.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::HangedMan.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_variablePadding = global::HangedMan.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_visible = global::HangedMan.Resource.Styleable.StateListDrawable_android_visible;
+			global::MODEL.Resource.Styleable.SwitchCompat = global::HangedMan.Resource.Styleable.SwitchCompat;
+			global::MODEL.Resource.Styleable.SwitchCompat_android_textOff = global::HangedMan.Resource.Styleable.SwitchCompat_android_textOff;
+			global::MODEL.Resource.Styleable.SwitchCompat_android_textOn = global::HangedMan.Resource.Styleable.SwitchCompat_android_textOn;
+			global::MODEL.Resource.Styleable.SwitchCompat_android_thumb = global::HangedMan.Resource.Styleable.SwitchCompat_android_thumb;
+			global::MODEL.Resource.Styleable.SwitchCompat_showText = global::HangedMan.Resource.Styleable.SwitchCompat_showText;
+			global::MODEL.Resource.Styleable.SwitchCompat_splitTrack = global::HangedMan.Resource.Styleable.SwitchCompat_splitTrack;
+			global::MODEL.Resource.Styleable.SwitchCompat_switchMinWidth = global::HangedMan.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::MODEL.Resource.Styleable.SwitchCompat_switchPadding = global::HangedMan.Resource.Styleable.SwitchCompat_switchPadding;
+			global::MODEL.Resource.Styleable.SwitchCompat_switchTextAppearance = global::HangedMan.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::MODEL.Resource.Styleable.SwitchCompat_thumbTextPadding = global::HangedMan.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::MODEL.Resource.Styleable.SwitchCompat_thumbTint = global::HangedMan.Resource.Styleable.SwitchCompat_thumbTint;
+			global::MODEL.Resource.Styleable.SwitchCompat_thumbTintMode = global::HangedMan.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::MODEL.Resource.Styleable.SwitchCompat_track = global::HangedMan.Resource.Styleable.SwitchCompat_track;
+			global::MODEL.Resource.Styleable.SwitchCompat_trackTint = global::HangedMan.Resource.Styleable.SwitchCompat_trackTint;
+			global::MODEL.Resource.Styleable.SwitchCompat_trackTintMode = global::HangedMan.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::MODEL.Resource.Styleable.TextAppearance = global::HangedMan.Resource.Styleable.TextAppearance;
+			global::MODEL.Resource.Styleable.TextAppearance_android_fontFamily = global::HangedMan.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::MODEL.Resource.Styleable.TextAppearance_android_shadowColor = global::HangedMan.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::MODEL.Resource.Styleable.TextAppearance_android_shadowDx = global::HangedMan.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::MODEL.Resource.Styleable.TextAppearance_android_shadowDy = global::HangedMan.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::MODEL.Resource.Styleable.TextAppearance_android_shadowRadius = global::HangedMan.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textColor = global::HangedMan.Resource.Styleable.TextAppearance_android_textColor;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textColorHint = global::HangedMan.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textColorLink = global::HangedMan.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textFontWeight = global::HangedMan.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textSize = global::HangedMan.Resource.Styleable.TextAppearance_android_textSize;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textStyle = global::HangedMan.Resource.Styleable.TextAppearance_android_textStyle;
+			global::MODEL.Resource.Styleable.TextAppearance_android_typeface = global::HangedMan.Resource.Styleable.TextAppearance_android_typeface;
+			global::MODEL.Resource.Styleable.TextAppearance_fontFamily = global::HangedMan.Resource.Styleable.TextAppearance_fontFamily;
+			global::MODEL.Resource.Styleable.TextAppearance_fontVariationSettings = global::HangedMan.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::MODEL.Resource.Styleable.TextAppearance_textAllCaps = global::HangedMan.Resource.Styleable.TextAppearance_textAllCaps;
+			global::MODEL.Resource.Styleable.TextAppearance_textLocale = global::HangedMan.Resource.Styleable.TextAppearance_textLocale;
+			global::MODEL.Resource.Styleable.Toolbar = global::HangedMan.Resource.Styleable.Toolbar;
+			global::MODEL.Resource.Styleable.Toolbar_android_gravity = global::HangedMan.Resource.Styleable.Toolbar_android_gravity;
+			global::MODEL.Resource.Styleable.Toolbar_android_minHeight = global::HangedMan.Resource.Styleable.Toolbar_android_minHeight;
+			global::MODEL.Resource.Styleable.Toolbar_buttonGravity = global::HangedMan.Resource.Styleable.Toolbar_buttonGravity;
+			global::MODEL.Resource.Styleable.Toolbar_collapseContentDescription = global::HangedMan.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::MODEL.Resource.Styleable.Toolbar_collapseIcon = global::HangedMan.Resource.Styleable.Toolbar_collapseIcon;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetEnd = global::HangedMan.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::HangedMan.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetLeft = global::HangedMan.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetRight = global::HangedMan.Resource.Styleable.Toolbar_contentInsetRight;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetStart = global::HangedMan.Resource.Styleable.Toolbar_contentInsetStart;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::HangedMan.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::MODEL.Resource.Styleable.Toolbar_logo = global::HangedMan.Resource.Styleable.Toolbar_logo;
+			global::MODEL.Resource.Styleable.Toolbar_logoDescription = global::HangedMan.Resource.Styleable.Toolbar_logoDescription;
+			global::MODEL.Resource.Styleable.Toolbar_maxButtonHeight = global::HangedMan.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::MODEL.Resource.Styleable.Toolbar_menu = global::HangedMan.Resource.Styleable.Toolbar_menu;
+			global::MODEL.Resource.Styleable.Toolbar_navigationContentDescription = global::HangedMan.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::MODEL.Resource.Styleable.Toolbar_navigationIcon = global::HangedMan.Resource.Styleable.Toolbar_navigationIcon;
+			global::MODEL.Resource.Styleable.Toolbar_popupTheme = global::HangedMan.Resource.Styleable.Toolbar_popupTheme;
+			global::MODEL.Resource.Styleable.Toolbar_subtitle = global::HangedMan.Resource.Styleable.Toolbar_subtitle;
+			global::MODEL.Resource.Styleable.Toolbar_subtitleTextAppearance = global::HangedMan.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::MODEL.Resource.Styleable.Toolbar_subtitleTextColor = global::HangedMan.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::MODEL.Resource.Styleable.Toolbar_title = global::HangedMan.Resource.Styleable.Toolbar_title;
+			global::MODEL.Resource.Styleable.Toolbar_titleMargin = global::HangedMan.Resource.Styleable.Toolbar_titleMargin;
+			global::MODEL.Resource.Styleable.Toolbar_titleMarginBottom = global::HangedMan.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::MODEL.Resource.Styleable.Toolbar_titleMarginEnd = global::HangedMan.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::MODEL.Resource.Styleable.Toolbar_titleMargins = global::HangedMan.Resource.Styleable.Toolbar_titleMargins;
+			global::MODEL.Resource.Styleable.Toolbar_titleMarginStart = global::HangedMan.Resource.Styleable.Toolbar_titleMarginStart;
+			global::MODEL.Resource.Styleable.Toolbar_titleMarginTop = global::HangedMan.Resource.Styleable.Toolbar_titleMarginTop;
+			global::MODEL.Resource.Styleable.Toolbar_titleTextAppearance = global::HangedMan.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::MODEL.Resource.Styleable.Toolbar_titleTextColor = global::HangedMan.Resource.Styleable.Toolbar_titleTextColor;
+			global::MODEL.Resource.Styleable.View = global::HangedMan.Resource.Styleable.View;
+			global::MODEL.Resource.Styleable.ViewBackgroundHelper = global::HangedMan.Resource.Styleable.ViewBackgroundHelper;
+			global::MODEL.Resource.Styleable.ViewBackgroundHelper_android_background = global::HangedMan.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::MODEL.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::HangedMan.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::MODEL.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::HangedMan.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::MODEL.Resource.Styleable.ViewStubCompat = global::HangedMan.Resource.Styleable.ViewStubCompat;
+			global::MODEL.Resource.Styleable.ViewStubCompat_android_id = global::HangedMan.Resource.Styleable.ViewStubCompat_android_id;
+			global::MODEL.Resource.Styleable.ViewStubCompat_android_inflatedId = global::HangedMan.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::MODEL.Resource.Styleable.ViewStubCompat_android_layout = global::HangedMan.Resource.Styleable.ViewStubCompat_android_layout;
+			global::MODEL.Resource.Styleable.View_android_focusable = global::HangedMan.Resource.Styleable.View_android_focusable;
+			global::MODEL.Resource.Styleable.View_android_theme = global::HangedMan.Resource.Styleable.View_android_theme;
+			global::MODEL.Resource.Styleable.View_paddingEnd = global::HangedMan.Resource.Styleable.View_paddingEnd;
+			global::MODEL.Resource.Styleable.View_paddingStart = global::HangedMan.Resource.Styleable.View_paddingStart;
+			global::MODEL.Resource.Styleable.View_theme = global::HangedMan.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::HangedMan.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::HangedMan.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::HangedMan.Resource.Attribute.fontProviderAuthority;
@@ -3308,85 +5010,88 @@ namespace HangedMan
 			public const int design_snackbar_background = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int hanged1 = 2131165292;
+			public const int grad = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int hanged2 = 2131165293;
+			public const int hanged1 = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int hanged3 = 2131165294;
+			public const int hanged2 = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int hanged4 = 2131165295;
+			public const int hanged3 = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int hanged5 = 2131165296;
+			public const int hanged4 = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int hangedfinal = 2131165297;
+			public const int hanged5 = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int hanger = 2131165298;
+			public const int hangedfinal = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int ic_mtrl_chip_checked_black = 2131165299;
+			public const int hanger = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int ic_mtrl_chip_checked_circle = 2131165300;
+			public const int ic_mtrl_chip_checked_black = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int ic_mtrl_chip_close_circle = 2131165301;
+			public const int ic_mtrl_chip_checked_circle = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int mtrl_snackbar_background = 2131165302;
+			public const int ic_mtrl_chip_close_circle = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int mtrl_tabs_default_indicator = 2131165303;
+			public const int mtrl_snackbar_background = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int navigation_empty_icon = 2131165304;
+			public const int mtrl_tabs_default_indicator = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int notification_action_background = 2131165305;
+			public const int navigation_empty_icon = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int notification_bg = 2131165306;
+			public const int notification_action_background = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int notification_bg_low = 2131165307;
+			public const int notification_bg = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int notification_bg_low_normal = 2131165308;
+			public const int notification_bg_low = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int notification_bg_low_pressed = 2131165309;
+			public const int notification_bg_low_normal = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int notification_bg_normal = 2131165310;
+			public const int notification_bg_low_pressed = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int notification_bg_normal_pressed = 2131165311;
+			public const int notification_bg_normal = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int notification_icon_background = 2131165312;
+			public const int notification_bg_normal_pressed = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int notification_template_icon_bg = 2131165313;
+			public const int notification_icon_background = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int notification_template_icon_low_bg = 2131165314;
+			public const int notification_template_icon_bg = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int notification_tile_bg = 2131165315;
+			public const int notification_template_icon_low_bg = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int notify_panel_notification_icon_bg = 2131165316;
+			public const int notification_tile_bg = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int tooltip_frame_dark = 2131165317;
+			public const int notify_panel_notification_icon_bg = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int tooltip_frame_light = 2131165318;
+			public const int tooltip_frame_dark = 2131165318;
+			
+			// aapt resource value: 0x7F070087
+			public const int tooltip_frame_light = 2131165319;
 			
 			static Drawable()
 			{
@@ -3603,514 +5308,514 @@ namespace HangedMan
 			public const int browser_actions_menu_view = 2131230791;
 			
 			// aapt resource value: 0x7F080048
-			public const int buttonPanel = 2131230792;
+			public const int btnSend = 2131230792;
 			
 			// aapt resource value: 0x7F080049
-			public const int center = 2131230793;
+			public const int buttonPanel = 2131230793;
 			
 			// aapt resource value: 0x7F08004A
-			public const int center_horizontal = 2131230794;
+			public const int center = 2131230794;
 			
 			// aapt resource value: 0x7F08004B
-			public const int center_vertical = 2131230795;
+			public const int center_horizontal = 2131230795;
 			
 			// aapt resource value: 0x7F08004C
-			public const int checkbox = 2131230796;
+			public const int center_vertical = 2131230796;
 			
 			// aapt resource value: 0x7F08004D
-			public const int @checked = 2131230797;
+			public const int checkbox = 2131230797;
 			
 			// aapt resource value: 0x7F08004E
-			public const int chronometer = 2131230798;
+			public const int @checked = 2131230798;
 			
 			// aapt resource value: 0x7F08004F
-			public const int clip_horizontal = 2131230799;
+			public const int chronometer = 2131230799;
 			
 			// aapt resource value: 0x7F080050
-			public const int clip_vertical = 2131230800;
+			public const int clip_horizontal = 2131230800;
 			
 			// aapt resource value: 0x7F080051
-			public const int collapseActionView = 2131230801;
+			public const int clip_vertical = 2131230801;
 			
 			// aapt resource value: 0x7F080052
-			public const int container = 2131230802;
+			public const int collapseActionView = 2131230802;
 			
 			// aapt resource value: 0x7F080053
-			public const int content = 2131230803;
+			public const int container = 2131230803;
 			
 			// aapt resource value: 0x7F080054
-			public const int contentPanel = 2131230804;
+			public const int content = 2131230804;
 			
 			// aapt resource value: 0x7F080055
-			public const int coordinator = 2131230805;
+			public const int contentPanel = 2131230805;
+			
+			// aapt resource value: 0x7F080056
+			public const int coordinator = 2131230806;
 			
 			// aapt resource value: 0x7F080001
 			public const int CTRL = 2131230721;
 			
-			// aapt resource value: 0x7F080056
-			public const int custom = 2131230806;
-			
 			// aapt resource value: 0x7F080057
-			public const int customPanel = 2131230807;
+			public const int custom = 2131230807;
 			
 			// aapt resource value: 0x7F080058
-			public const int decor_content_parent = 2131230808;
+			public const int customPanel = 2131230808;
 			
 			// aapt resource value: 0x7F080059
-			public const int default_activity_button = 2131230809;
+			public const int decor_content_parent = 2131230809;
 			
 			// aapt resource value: 0x7F08005A
-			public const int design_bottom_sheet = 2131230810;
+			public const int default_activity_button = 2131230810;
 			
 			// aapt resource value: 0x7F08005B
-			public const int design_menu_item_action_area = 2131230811;
+			public const int design_bottom_sheet = 2131230811;
 			
 			// aapt resource value: 0x7F08005C
-			public const int design_menu_item_action_area_stub = 2131230812;
+			public const int design_menu_item_action_area = 2131230812;
 			
 			// aapt resource value: 0x7F08005D
-			public const int design_menu_item_text = 2131230813;
+			public const int design_menu_item_action_area_stub = 2131230813;
 			
 			// aapt resource value: 0x7F08005E
-			public const int design_navigation_view = 2131230814;
+			public const int design_menu_item_text = 2131230814;
 			
 			// aapt resource value: 0x7F08005F
-			public const int dialog_button = 2131230815;
+			public const int design_navigation_view = 2131230815;
 			
 			// aapt resource value: 0x7F080060
-			public const int disableHome = 2131230816;
+			public const int dialog_button = 2131230816;
 			
 			// aapt resource value: 0x7F080061
-			public const int edit_query = 2131230817;
+			public const int disableHome = 2131230817;
 			
 			// aapt resource value: 0x7F080062
-			public const int end = 2131230818;
+			public const int edit_query = 2131230818;
 			
 			// aapt resource value: 0x7F080063
-			public const int enterAlways = 2131230819;
+			public const int edtWord = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int enterAlwaysCollapsed = 2131230820;
+			public const int end = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int exitUntilCollapsed = 2131230821;
-			
-			// aapt resource value: 0x7F080067
-			public const int expanded_menu = 2131230823;
+			public const int enterAlways = 2131230821;
 			
 			// aapt resource value: 0x7F080066
-			public const int expand_activities_button = 2131230822;
+			public const int enterAlwaysCollapsed = 2131230822;
 			
-			// aapt resource value: 0x7F080068
-			public const int fill = 2131230824;
-			
-			// aapt resource value: 0x7F08006B
-			public const int filled = 2131230827;
+			// aapt resource value: 0x7F080067
+			public const int exitUntilCollapsed = 2131230823;
 			
 			// aapt resource value: 0x7F080069
-			public const int fill_horizontal = 2131230825;
+			public const int expanded_menu = 2131230825;
+			
+			// aapt resource value: 0x7F080068
+			public const int expand_activities_button = 2131230824;
 			
 			// aapt resource value: 0x7F08006A
-			public const int fill_vertical = 2131230826;
-			
-			// aapt resource value: 0x7F08006C
-			public const int @fixed = 2131230828;
+			public const int fill = 2131230826;
 			
 			// aapt resource value: 0x7F08006D
-			public const int forever = 2131230829;
+			public const int filled = 2131230829;
+			
+			// aapt resource value: 0x7F08006B
+			public const int fill_horizontal = 2131230827;
+			
+			// aapt resource value: 0x7F08006C
+			public const int fill_vertical = 2131230828;
 			
 			// aapt resource value: 0x7F08006E
-			public const int fragment_container_view_tag = 2131230830;
+			public const int @fixed = 2131230830;
+			
+			// aapt resource value: 0x7F08006F
+			public const int forever = 2131230831;
+			
+			// aapt resource value: 0x7F080070
+			public const int fragment_container_view_tag = 2131230832;
 			
 			// aapt resource value: 0x7F080002
 			public const int FUNCTION = 2131230722;
 			
-			// aapt resource value: 0x7F08006F
-			public const int ghost_view = 2131230831;
-			
-			// aapt resource value: 0x7F080070
-			public const int ghost_view_holder = 2131230832;
-			
 			// aapt resource value: 0x7F080071
-			public const int group_divider = 2131230833;
+			public const int ghost_view = 2131230833;
 			
 			// aapt resource value: 0x7F080072
-			public const int home = 2131230834;
+			public const int ghost_view_holder = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int homeAsUp = 2131230835;
+			public const int group_divider = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int icon = 2131230836;
+			public const int home = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int icon_group = 2131230837;
+			public const int homeAsUp = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int ifRoom = 2131230838;
+			public const int icon = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int image = 2131230839;
+			public const int icon_group = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int imgHanged = 2131230840;
+			public const int ifRoom = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int info = 2131230841;
+			public const int image = 2131230841;
 			
 			// aapt resource value: 0x7F08007A
-			public const int italic = 2131230842;
+			public const int info = 2131230842;
 			
 			// aapt resource value: 0x7F08007B
-			public const int item_touch_helper_previous_elevation = 2131230843;
+			public const int italic = 2131230843;
 			
 			// aapt resource value: 0x7F08007C
-			public const int labeled = 2131230844;
+			public const int item_touch_helper_previous_elevation = 2131230844;
 			
 			// aapt resource value: 0x7F08007D
-			public const int largeLabel = 2131230845;
+			public const int labeled = 2131230845;
 			
 			// aapt resource value: 0x7F08007E
-			public const int left = 2131230846;
+			public const int largeLabel = 2131230846;
 			
 			// aapt resource value: 0x7F08007F
-			public const int line1 = 2131230847;
+			public const int left = 2131230847;
 			
 			// aapt resource value: 0x7F080080
-			public const int line3 = 2131230848;
+			public const int line1 = 2131230848;
 			
 			// aapt resource value: 0x7F080081
-			public const int listMode = 2131230849;
+			public const int line3 = 2131230849;
 			
 			// aapt resource value: 0x7F080082
-			public const int list_item = 2131230850;
+			public const int listMode = 2131230850;
 			
 			// aapt resource value: 0x7F080083
-			public const int masked = 2131230851;
+			public const int list_item = 2131230851;
 			
 			// aapt resource value: 0x7F080084
-			public const int message = 2131230852;
+			public const int masked = 2131230852;
+			
+			// aapt resource value: 0x7F080085
+			public const int message = 2131230853;
 			
 			// aapt resource value: 0x7F080003
 			public const int META = 2131230723;
 			
-			// aapt resource value: 0x7F080085
-			public const int middle = 2131230853;
-			
 			// aapt resource value: 0x7F080086
-			public const int mini = 2131230854;
+			public const int middle = 2131230854;
 			
 			// aapt resource value: 0x7F080087
-			public const int mtrl_child_content_container = 2131230855;
+			public const int mini = 2131230855;
 			
 			// aapt resource value: 0x7F080088
-			public const int mtrl_internal_children_alpha_tag = 2131230856;
+			public const int mtrl_child_content_container = 2131230856;
 			
 			// aapt resource value: 0x7F080089
-			public const int multiply = 2131230857;
+			public const int mtrl_internal_children_alpha_tag = 2131230857;
 			
 			// aapt resource value: 0x7F08008A
-			public const int navigation_header_container = 2131230858;
+			public const int multiply = 2131230858;
 			
 			// aapt resource value: 0x7F08008B
-			public const int never = 2131230859;
+			public const int navigation_header_container = 2131230859;
 			
 			// aapt resource value: 0x7F08008C
-			public const int none = 2131230860;
+			public const int never = 2131230860;
 			
 			// aapt resource value: 0x7F08008D
-			public const int normal = 2131230861;
+			public const int none = 2131230861;
 			
 			// aapt resource value: 0x7F08008E
-			public const int notification_background = 2131230862;
+			public const int normal = 2131230862;
 			
 			// aapt resource value: 0x7F08008F
-			public const int notification_main_column = 2131230863;
+			public const int notification_background = 2131230863;
 			
 			// aapt resource value: 0x7F080090
-			public const int notification_main_column_container = 2131230864;
+			public const int notification_main_column = 2131230864;
 			
 			// aapt resource value: 0x7F080091
-			public const int off = 2131230865;
+			public const int notification_main_column_container = 2131230865;
 			
 			// aapt resource value: 0x7F080092
-			public const int on = 2131230866;
+			public const int off = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int outline = 2131230867;
+			public const int on = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int parallax = 2131230868;
+			public const int outline = 2131230868;
 			
 			// aapt resource value: 0x7F080095
-			public const int parentPanel = 2131230869;
+			public const int parallax = 2131230869;
 			
 			// aapt resource value: 0x7F080096
-			public const int parent_matrix = 2131230870;
+			public const int parentPanel = 2131230870;
 			
 			// aapt resource value: 0x7F080097
-			public const int pin = 2131230871;
+			public const int parent_matrix = 2131230871;
 			
 			// aapt resource value: 0x7F080098
-			public const int progress_circular = 2131230872;
+			public const int pin = 2131230872;
 			
 			// aapt resource value: 0x7F080099
-			public const int progress_horizontal = 2131230873;
+			public const int progress_circular = 2131230873;
 			
 			// aapt resource value: 0x7F08009A
-			public const int radio = 2131230874;
+			public const int progress_horizontal = 2131230874;
 			
 			// aapt resource value: 0x7F08009B
-			public const int right = 2131230875;
+			public const int radio = 2131230875;
 			
 			// aapt resource value: 0x7F08009C
-			public const int right_icon = 2131230876;
+			public const int right = 2131230876;
 			
 			// aapt resource value: 0x7F08009D
-			public const int right_side = 2131230877;
+			public const int right_icon = 2131230877;
 			
 			// aapt resource value: 0x7F08009E
-			public const int save_non_transition_alpha = 2131230878;
+			public const int right_side = 2131230878;
 			
 			// aapt resource value: 0x7F08009F
-			public const int save_overlay_view = 2131230879;
+			public const int save_non_transition_alpha = 2131230879;
 			
 			// aapt resource value: 0x7F0800A0
-			public const int screen = 2131230880;
+			public const int save_overlay_view = 2131230880;
 			
 			// aapt resource value: 0x7F0800A1
-			public const int scroll = 2131230881;
-			
-			// aapt resource value: 0x7F0800A5
-			public const int scrollable = 2131230885;
+			public const int screen = 2131230881;
 			
 			// aapt resource value: 0x7F0800A2
-			public const int scrollIndicatorDown = 2131230882;
-			
-			// aapt resource value: 0x7F0800A3
-			public const int scrollIndicatorUp = 2131230883;
-			
-			// aapt resource value: 0x7F0800A4
-			public const int scrollView = 2131230884;
+			public const int scroll = 2131230882;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int search_badge = 2131230886;
+			public const int scrollable = 2131230886;
+			
+			// aapt resource value: 0x7F0800A3
+			public const int scrollIndicatorDown = 2131230883;
+			
+			// aapt resource value: 0x7F0800A4
+			public const int scrollIndicatorUp = 2131230884;
+			
+			// aapt resource value: 0x7F0800A5
+			public const int scrollView = 2131230885;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int search_bar = 2131230887;
+			public const int search_badge = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int search_button = 2131230888;
+			public const int search_bar = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int search_close_btn = 2131230889;
+			public const int search_button = 2131230889;
 			
 			// aapt resource value: 0x7F0800AA
-			public const int search_edit_frame = 2131230890;
+			public const int search_close_btn = 2131230890;
 			
 			// aapt resource value: 0x7F0800AB
-			public const int search_go_btn = 2131230891;
+			public const int search_edit_frame = 2131230891;
 			
 			// aapt resource value: 0x7F0800AC
-			public const int search_mag_icon = 2131230892;
+			public const int search_go_btn = 2131230892;
 			
 			// aapt resource value: 0x7F0800AD
-			public const int search_plate = 2131230893;
+			public const int search_mag_icon = 2131230893;
 			
 			// aapt resource value: 0x7F0800AE
-			public const int search_src_text = 2131230894;
+			public const int search_plate = 2131230894;
 			
 			// aapt resource value: 0x7F0800AF
-			public const int search_voice_btn = 2131230895;
-			
-			// aapt resource value: 0x7F0800B1
-			public const int selected = 2131230897;
+			public const int search_src_text = 2131230895;
 			
 			// aapt resource value: 0x7F0800B0
-			public const int select_dialog_listview = 2131230896;
+			public const int search_voice_btn = 2131230896;
+			
+			// aapt resource value: 0x7F0800B2
+			public const int selected = 2131230898;
+			
+			// aapt resource value: 0x7F0800B1
+			public const int select_dialog_listview = 2131230897;
 			
 			// aapt resource value: 0x7F080004
 			public const int SHIFT = 2131230724;
 			
-			// aapt resource value: 0x7F0800B2
-			public const int shortcut = 2131230898;
-			
 			// aapt resource value: 0x7F0800B3
-			public const int showCustom = 2131230899;
+			public const int shortcut = 2131230899;
 			
 			// aapt resource value: 0x7F0800B4
-			public const int showHome = 2131230900;
+			public const int showCustom = 2131230900;
 			
 			// aapt resource value: 0x7F0800B5
-			public const int showTitle = 2131230901;
+			public const int showHome = 2131230901;
 			
 			// aapt resource value: 0x7F0800B6
-			public const int smallLabel = 2131230902;
+			public const int showTitle = 2131230902;
 			
 			// aapt resource value: 0x7F0800B7
-			public const int snackbar_action = 2131230903;
+			public const int smallLabel = 2131230903;
 			
 			// aapt resource value: 0x7F0800B8
-			public const int snackbar_text = 2131230904;
+			public const int snackbar_action = 2131230904;
 			
 			// aapt resource value: 0x7F0800B9
-			public const int snap = 2131230905;
+			public const int snackbar_text = 2131230905;
 			
 			// aapt resource value: 0x7F0800BA
-			public const int snapMargins = 2131230906;
+			public const int snap = 2131230906;
 			
 			// aapt resource value: 0x7F0800BB
-			public const int spacer = 2131230907;
+			public const int snapMargins = 2131230907;
 			
 			// aapt resource value: 0x7F0800BC
-			public const int split_action_bar = 2131230908;
+			public const int spacer = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
-			public const int src_atop = 2131230909;
+			public const int split_action_bar = 2131230909;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int src_in = 2131230910;
+			public const int src_atop = 2131230910;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int src_over = 2131230911;
+			public const int src_in = 2131230911;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int start = 2131230912;
+			public const int src_over = 2131230912;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int stretch = 2131230913;
+			public const int start = 2131230913;
 			
 			// aapt resource value: 0x7F0800C2
-			public const int submenuarrow = 2131230914;
+			public const int stretch = 2131230914;
 			
 			// aapt resource value: 0x7F0800C3
-			public const int submit_area = 2131230915;
+			public const int submenuarrow = 2131230915;
+			
+			// aapt resource value: 0x7F0800C4
+			public const int submit_area = 2131230916;
 			
 			// aapt resource value: 0x7F080005
 			public const int SYM = 2131230725;
 			
-			// aapt resource value: 0x7F0800C4
-			public const int tabMode = 2131230916;
-			
 			// aapt resource value: 0x7F0800C5
-			public const int tag_accessibility_actions = 2131230917;
+			public const int tabMode = 2131230917;
 			
 			// aapt resource value: 0x7F0800C6
-			public const int tag_accessibility_clickable_spans = 2131230918;
+			public const int tag_accessibility_actions = 2131230918;
 			
 			// aapt resource value: 0x7F0800C7
-			public const int tag_accessibility_heading = 2131230919;
+			public const int tag_accessibility_clickable_spans = 2131230919;
 			
 			// aapt resource value: 0x7F0800C8
-			public const int tag_accessibility_pane_title = 2131230920;
+			public const int tag_accessibility_heading = 2131230920;
 			
 			// aapt resource value: 0x7F0800C9
-			public const int tag_screen_reader_focusable = 2131230921;
+			public const int tag_accessibility_pane_title = 2131230921;
 			
 			// aapt resource value: 0x7F0800CA
-			public const int tag_transition_group = 2131230922;
+			public const int tag_screen_reader_focusable = 2131230922;
 			
 			// aapt resource value: 0x7F0800CB
-			public const int tag_unhandled_key_event_manager = 2131230923;
+			public const int tag_transition_group = 2131230923;
 			
 			// aapt resource value: 0x7F0800CC
-			public const int tag_unhandled_key_listeners = 2131230924;
+			public const int tag_unhandled_key_event_manager = 2131230924;
 			
 			// aapt resource value: 0x7F0800CD
-			public const int text = 2131230925;
+			public const int tag_unhandled_key_listeners = 2131230925;
 			
 			// aapt resource value: 0x7F0800CE
-			public const int text2 = 2131230926;
-			
-			// aapt resource value: 0x7F0800D3
-			public const int textinput_counter = 2131230931;
-			
-			// aapt resource value: 0x7F0800D4
-			public const int textinput_error = 2131230932;
-			
-			// aapt resource value: 0x7F0800D5
-			public const int textinput_helper_text = 2131230933;
+			public const int text = 2131230926;
 			
 			// aapt resource value: 0x7F0800CF
-			public const int textSpacerNoButtons = 2131230927;
+			public const int text2 = 2131230927;
 			
-			// aapt resource value: 0x7F0800D0
-			public const int textSpacerNoTitle = 2131230928;
+			// aapt resource value: 0x7F0800D4
+			public const int textinput_counter = 2131230932;
 			
-			// aapt resource value: 0x7F0800D1
-			public const int textStart = 2131230929;
-			
-			// aapt resource value: 0x7F0800D2
-			public const int text_input_password_toggle = 2131230930;
+			// aapt resource value: 0x7F0800D5
+			public const int textinput_error = 2131230933;
 			
 			// aapt resource value: 0x7F0800D6
-			public const int time = 2131230934;
+			public const int textinput_helper_text = 2131230934;
+			
+			// aapt resource value: 0x7F0800D0
+			public const int textSpacerNoButtons = 2131230928;
+			
+			// aapt resource value: 0x7F0800D1
+			public const int textSpacerNoTitle = 2131230929;
+			
+			// aapt resource value: 0x7F0800D2
+			public const int textStart = 2131230930;
+			
+			// aapt resource value: 0x7F0800D3
+			public const int text_input_password_toggle = 2131230931;
 			
 			// aapt resource value: 0x7F0800D7
-			public const int title = 2131230935;
+			public const int time = 2131230935;
 			
 			// aapt resource value: 0x7F0800D8
-			public const int titleDividerNoCustom = 2131230936;
+			public const int title = 2131230936;
 			
 			// aapt resource value: 0x7F0800D9
-			public const int title_template = 2131230937;
+			public const int titleDividerNoCustom = 2131230937;
 			
 			// aapt resource value: 0x7F0800DA
-			public const int top = 2131230938;
+			public const int title_template = 2131230938;
 			
 			// aapt resource value: 0x7F0800DB
-			public const int topPanel = 2131230939;
+			public const int top = 2131230939;
 			
 			// aapt resource value: 0x7F0800DC
-			public const int touch_outside = 2131230940;
+			public const int topPanel = 2131230940;
 			
 			// aapt resource value: 0x7F0800DD
-			public const int transition_current_scene = 2131230941;
+			public const int touch_outside = 2131230941;
 			
 			// aapt resource value: 0x7F0800DE
-			public const int transition_layout_save = 2131230942;
+			public const int transition_current_scene = 2131230942;
 			
 			// aapt resource value: 0x7F0800DF
-			public const int transition_position = 2131230943;
+			public const int transition_layout_save = 2131230943;
 			
 			// aapt resource value: 0x7F0800E0
-			public const int transition_scene_layoutid_cache = 2131230944;
+			public const int transition_position = 2131230944;
 			
 			// aapt resource value: 0x7F0800E1
-			public const int transition_transform = 2131230945;
+			public const int transition_scene_layoutid_cache = 2131230945;
 			
 			// aapt resource value: 0x7F0800E2
-			public const int @unchecked = 2131230946;
+			public const int transition_transform = 2131230946;
 			
 			// aapt resource value: 0x7F0800E3
-			public const int uniform = 2131230947;
+			public const int @unchecked = 2131230947;
 			
 			// aapt resource value: 0x7F0800E4
-			public const int unlabeled = 2131230948;
+			public const int uniform = 2131230948;
 			
 			// aapt resource value: 0x7F0800E5
-			public const int up = 2131230949;
+			public const int unlabeled = 2131230949;
 			
 			// aapt resource value: 0x7F0800E6
-			public const int useLogo = 2131230950;
+			public const int up = 2131230950;
 			
 			// aapt resource value: 0x7F0800E7
-			public const int view_offset_helper = 2131230951;
+			public const int useLogo = 2131230951;
 			
 			// aapt resource value: 0x7F0800E8
-			public const int view_tree_saved_state_registry_owner = 2131230952;
+			public const int view_offset_helper = 2131230952;
 			
 			// aapt resource value: 0x7F0800E9
-			public const int visible = 2131230953;
+			public const int view_tree_saved_state_registry_owner = 2131230953;
 			
 			// aapt resource value: 0x7F0800EA
-			public const int visible_removing_fragment_view_tag = 2131230954;
+			public const int visible = 2131230954;
 			
 			// aapt resource value: 0x7F0800EB
-			public const int withText = 2131230955;
+			public const int visible_removing_fragment_view_tag = 2131230955;
 			
 			// aapt resource value: 0x7F0800EC
-			public const int word = 2131230956;
+			public const int withText = 2131230956;
 			
 			// aapt resource value: 0x7F0800ED
 			public const int wrap_content = 2131230957;
@@ -4317,58 +6022,58 @@ namespace HangedMan
 			public const int abc_tooltip = 2131427355;
 			
 			// aapt resource value: 0x7F0B001C
-			public const int activity_main = 2131427356;
+			public const int browser_actions_context_menu_page = 2131427356;
 			
 			// aapt resource value: 0x7F0B001D
-			public const int browser_actions_context_menu_page = 2131427357;
+			public const int browser_actions_context_menu_row = 2131427357;
 			
 			// aapt resource value: 0x7F0B001E
-			public const int browser_actions_context_menu_row = 2131427358;
+			public const int custom_dialog = 2131427358;
 			
 			// aapt resource value: 0x7F0B001F
-			public const int custom_dialog = 2131427359;
+			public const int design_bottom_navigation_item = 2131427359;
 			
 			// aapt resource value: 0x7F0B0020
-			public const int design_bottom_navigation_item = 2131427360;
+			public const int design_bottom_sheet_dialog = 2131427360;
 			
 			// aapt resource value: 0x7F0B0021
-			public const int design_bottom_sheet_dialog = 2131427361;
+			public const int design_layout_snackbar = 2131427361;
 			
 			// aapt resource value: 0x7F0B0022
-			public const int design_layout_snackbar = 2131427362;
+			public const int design_layout_snackbar_include = 2131427362;
 			
 			// aapt resource value: 0x7F0B0023
-			public const int design_layout_snackbar_include = 2131427363;
+			public const int design_layout_tab_icon = 2131427363;
 			
 			// aapt resource value: 0x7F0B0024
-			public const int design_layout_tab_icon = 2131427364;
+			public const int design_layout_tab_text = 2131427364;
 			
 			// aapt resource value: 0x7F0B0025
-			public const int design_layout_tab_text = 2131427365;
+			public const int design_menu_item_action_area = 2131427365;
 			
 			// aapt resource value: 0x7F0B0026
-			public const int design_menu_item_action_area = 2131427366;
+			public const int design_navigation_item = 2131427366;
 			
 			// aapt resource value: 0x7F0B0027
-			public const int design_navigation_item = 2131427367;
+			public const int design_navigation_item_header = 2131427367;
 			
 			// aapt resource value: 0x7F0B0028
-			public const int design_navigation_item_header = 2131427368;
+			public const int design_navigation_item_separator = 2131427368;
 			
 			// aapt resource value: 0x7F0B0029
-			public const int design_navigation_item_separator = 2131427369;
+			public const int design_navigation_item_subheader = 2131427369;
 			
 			// aapt resource value: 0x7F0B002A
-			public const int design_navigation_item_subheader = 2131427370;
+			public const int design_navigation_menu = 2131427370;
 			
 			// aapt resource value: 0x7F0B002B
-			public const int design_navigation_menu = 2131427371;
+			public const int design_navigation_menu_item = 2131427371;
 			
 			// aapt resource value: 0x7F0B002C
-			public const int design_navigation_menu_item = 2131427372;
+			public const int design_text_input_password_icon = 2131427372;
 			
 			// aapt resource value: 0x7F0B002D
-			public const int design_text_input_password_icon = 2131427373;
+			public const int layout1 = 2131427373;
 			
 			// aapt resource value: 0x7F0B002E
 			public const int mtrl_layout_snackbar = 2131427374;
@@ -4559,31 +6264,34 @@ namespace HangedMan
 			public const int fallback_menu_item_share_link = 2131558438;
 			
 			// aapt resource value: 0x7F0D0027
-			public const int hide_bottom_view_on_scroll_behavior = 2131558439;
+			public const int hello = 2131558439;
 			
 			// aapt resource value: 0x7F0D0028
-			public const int mtrl_chip_close_icon_content_description = 2131558440;
+			public const int hide_bottom_view_on_scroll_behavior = 2131558440;
 			
 			// aapt resource value: 0x7F0D0029
-			public const int password_toggle_content_description = 2131558441;
+			public const int mtrl_chip_close_icon_content_description = 2131558441;
 			
 			// aapt resource value: 0x7F0D002A
-			public const int path_password_eye = 2131558442;
+			public const int password_toggle_content_description = 2131558442;
 			
 			// aapt resource value: 0x7F0D002B
-			public const int path_password_eye_mask_strike_through = 2131558443;
+			public const int path_password_eye = 2131558443;
 			
 			// aapt resource value: 0x7F0D002C
-			public const int path_password_eye_mask_visible = 2131558444;
+			public const int path_password_eye_mask_strike_through = 2131558444;
 			
 			// aapt resource value: 0x7F0D002D
-			public const int path_password_strike_through = 2131558445;
+			public const int path_password_eye_mask_visible = 2131558445;
 			
 			// aapt resource value: 0x7F0D002E
-			public const int search_menu_title = 2131558446;
+			public const int path_password_strike_through = 2131558446;
 			
 			// aapt resource value: 0x7F0D002F
-			public const int status_bar_notification_info_overflow = 2131558447;
+			public const int search_menu_title = 2131558447;
+			
+			// aapt resource value: 0x7F0D0030
+			public const int status_bar_notification_info_overflow = 2131558448;
 			
 			static String()
 			{

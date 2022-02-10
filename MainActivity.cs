@@ -27,7 +27,8 @@ namespace HangedMan
         private void InitializeViews()
         {
             imgHanged = FindViewById<ImageView>(Resource.Id.imgHanged);
-            txtWord = FindViewById<TextView>(Resource.Id.txtWord)
+            txtWord = FindViewById<TextView>(Resource.Id.txtWord);
+
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
