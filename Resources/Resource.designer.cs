@@ -4110,7 +4110,10 @@ namespace HangedMan
 			public const int withText = 2131230955;
 			
 			// aapt resource value: 0x7F0800EC
-			public const int wrap_content = 2131230956;
+			public const int word = 2131230956;
+			
+			// aapt resource value: 0x7F0800ED
+			public const int wrap_content = 2131230957;
 			
 			static Id()
 			{

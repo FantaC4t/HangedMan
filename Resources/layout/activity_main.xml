@@ -19,7 +19,16 @@
         android:layout_width="300dp"
         android:layout_height="300dp"
         android:layout_gravity="center"
+        android:src="@drawable/hanger"
         android:id="@+id/imgHanged"
+        />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="_ _ _ _ _ _"
+            android:textSize="30sp"
+            android:layout_gravity="center"
+            android:id="@+id/txtWord"
         />
     <LinearLayout
         android:layout_width="wrap_content"
@@ -27,12 +36,18 @@
         android:layout_gravity="center"
         android:orientation="horizontal">
     <EditText
+        android:id="@+id/edtLetter"
+        android:id="@+id/"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:layout_gravity="center"
+        android:inputType="text"
+        android:hint="Input Letter"
+        android:maxLength="1"
         />
         <Button
+            android:id="@+id/btnCheck"
             android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
