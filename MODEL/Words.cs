@@ -23,5 +23,9 @@ namespace MODEL
         {
             return wordList[rnd.Next(wordList.Count)];
         }
+        public int GetLength()
+        {
+            return wordList.Count;
+        }
     }
 }

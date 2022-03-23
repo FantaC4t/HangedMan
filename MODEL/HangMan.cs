@@ -30,6 +30,14 @@ namespace MODEL
         {
             this.lives = lives;
         }
+        public HangMan(string word)
+        {
+            this.word= word;
+            userWord = "";
+            guesses = 0;
+            lives = 6;
+            userWord = userWord.PadLeft(word.Length, '_');
+        }
 
         public void NewGame()
         {
@@ -51,19 +59,18 @@ namespace MODEL
         public List<int> CheckLetter(char c)
         {
             List<int> index = new List<int>();
-
             guesses++;
-
             for (int i = 0; i < word.Length; i++)
+            { 
                 if (c == word[i])
                 {
                     index.Add(i);
                     userWord = userWord.Substring(0, i) + c + userWord.Substring(i + 1, userWord.Length - i - 1);
                 }
-
+            }
             return index;
-        }
 
+        }
         public bool HasLives()
         {
             return lives != guesses;
@@ -72,6 +79,14 @@ namespace MODEL
         public bool EndGame()
         {
             return word == userWord;
+        }
+        public int GetGuesses()
+        {
+            return guesses;
+        }
+        public string GetCustomWord()
+        {
+            return userWord;
         }
     }
 }

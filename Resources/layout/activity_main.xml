@@ -7,7 +7,15 @@
     android:orientation="vertical"
     android:background="@drawable/grad"
     >
-
+    <TextView
+        android:id="@+id/txtGuesses"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Guesses:0"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        />
     <ImageView
         android:layout_width="300dp"
         android:layout_height="300dp"
@@ -30,7 +38,6 @@
         android:orientation="horizontal">
     <EditText
         android:id="@+id/edtLetter"
-        android:id="@+id/"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
@@ -49,4 +56,12 @@
             android:textSize="30sp"
             />
         </LinearLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Game"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:id="@+id/btnStartGame"
+        />
 </LinearLayout>
